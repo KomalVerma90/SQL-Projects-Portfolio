@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,Segment,Country,City,State,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+ORD-10001,2025-07-12,2025-07-14,CUST-704,Customer_217,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 4,3748.89,3,0.0,766.7
+ORD-10002,2025-12-19,2025-12-26,CUST-325,Customer_230,Home Office,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 36,9070.08,9,0.05,2015.45
+ORD-10003,2024-12-10,2024-12-12,CUST-194,Customer_195,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 46,5169.73,3,0.05,1709.87
+ORD-10004,2024-10-27,2024-11-02,CUST-691,Customer_99,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 9,6945.43,2,0.15,-448.26
+ORD-10005,2025-10-12,2025-10-18,CUST-266,Customer_190,Corporate,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 27,12844.23,2,0.15,322.24
+ORD-10006,2024-10-03,2024-10-07,CUST-801,Customer_167,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 30,2649.97,4,0.05,286.24
+ORD-10007,2025-05-26,2025-06-02,CUST-758,Customer_235,Consumer,India,Patna,Bihar,East,Furniture,Tables,Tables Product 34,1086.21,10,0.1,-4.69
+ORD-10008,2025-02-12,2025-02-18,CUST-324,Customer_71,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 64,8130.76,10,0.15,2471.92
+ORD-10009,2025-01-25,2025-02-02,CUST-641,Customer_129,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 111,9448.95,7,0.2,-674.77
+ORD-10010,2024-06-10,2024-06-18,CUST-103,Customer_135,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 98,11288.08,6,0.0,362.07
+ORD-10011,2025-01-17,2025-01-20,CUST-652,Customer_272,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 77,12640.87,9,0.2,-132.6
+ORD-10012,2025-08-03,2025-08-05,CUST-187,Customer_249,Consumer,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 98,13943.57,5,0.05,-1030.9
+ORD-10013,2025-09-13,2025-09-20,CUST-316,Customer_277,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 89,14208.05,3,0.1,1952.94
+ORD-10014,2024-09-10,2024-09-14,CUST-165,Customer_174,Consumer,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 76,9783.18,8,0.2,1009.32
+ORD-10015,2024-02-02,2024-02-08,CUST-172,Customer_264,Consumer,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 36,10646.83,1,0.05,-741.76
+ORD-10016,2025-04-29,2025-05-06,CUST-294,Customer_49,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 85,10877.95,10,0.2,1225.97
+ORD-10017,2024-12-13,2024-12-15,CUST-354,Customer_99,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 69,7058.67,1,0.0,-513.34
+ORD-10018,2025-07-17,2025-07-19,CUST-151,Customer_334,Home Office,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 108,4250.32,4,0.0,422.52
+ORD-10019,2024-03-01,2024-03-04,CUST-488,Customer_2,Corporate,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 34,6155.57,8,0.05,1779.53
+ORD-10020,2024-10-30,2024-11-03,CUST-159,Customer_297,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 70,14364.03,9,0.15,-435.83
+ORD-10021,2025-06-04,2025-06-06,CUST-971,Customer_96,Consumer,India,Patna,Bihar,East,Technology,Phones,Phones Product 77,8804.25,9,0.2,-256.69
+ORD-10022,2024-02-10,2024-02-12,CUST-529,Customer_337,Home Office,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 73,14129.78,10,0.05,2268.02
+ORD-10023,2025-11-18,2025-11-23,CUST-568,Customer_162,Consumer,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 2,10771.26,4,0.1,841.27
+ORD-10024,2024-03-11,2024-03-15,CUST-478,Customer_146,Consumer,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 57,3276.0,5,0.05,1048.21
+ORD-10025,2024-04-19,2024-04-22,CUST-378,Customer_145,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 27,4560.74,2,0.05,86.7
+ORD-10026,2024-02-22,2024-02-24,CUST-749,Customer_217,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 6,12808.4,9,0.15,166.57
+ORD-10027,2025-03-13,2025-03-14,CUST-214,Customer_39,Home Office,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 116,14698.99,3,0.15,2179.22
+ORD-10028,2025-01-08,2025-01-09,CUST-466,Customer_108,Home Office,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 32,8332.62,7,0.05,-676.42
+ORD-10029,2024-06-30,2024-07-07,CUST-125,Customer_92,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 119,14610.17,3,0.05,4223.4
+ORD-10030,2024-04-20,2024-04-27,CUST-993,Customer_20,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 29,12180.16,5,0.05,3097.64
+ORD-10031,2024-07-16,2024-07-23,CUST-436,Customer_143,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 99,12325.99,4,0.05,-1101.34
+ORD-10032,2024-04-28,2024-05-03,CUST-282,Customer_298,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 5,6055.21,9,0.1,1953.75
+ORD-10033,2024-04-28,2024-05-05,CUST-690,Customer_98,Corporate,India,Patna,Bihar,East,Furniture,Storage,Storage Product 6,11817.78,7,0.2,4052.39
+ORD-10034,2025-11-11,2025-11-17,CUST-738,Customer_161,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 109,10334.17,4,0.1,972.28
+ORD-10035,2025-07-21,2025-07-24,CUST-296,Customer_216,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 49,10036.7,6,0.15,2145.28
+ORD-10036,2025-08-16,2025-08-22,CUST-576,Customer_227,Corporate,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 87,12522.51,5,0.1,-67.84
+ORD-10037,2025-09-26,2025-10-02,CUST-195,Customer_121,Home Office,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 40,9916.88,5,0.2,1970.82
+ORD-10038,2024-03-15,2024-03-23,CUST-524,Customer_323,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 25,788.58,8,0.2,222.68
+ORD-10039,2024-08-12,2024-08-15,CUST-923,Customer_266,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 7,2298.81,1,0.0,575.37
+ORD-10040,2025-03-29,2025-04-05,CUST-950,Customer_281,Corporate,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 115,12041.11,9,0.2,2022.35
+ORD-10041,2024-09-01,2024-09-06,CUST-550,Customer_40,Home Office,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 37,11301.47,5,0.2,1334.35
+ORD-10042,2025-01-27,2025-01-30,CUST-823,Customer_110,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 54,13406.1,2,0.05,-430.69
+ORD-10043,2025-08-21,2025-08-22,CUST-977,Customer_295,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 62,6295.04,4,0.15,473.79
+ORD-10044,2025-07-13,2025-07-17,CUST-599,Customer_113,Corporate,India,Patna,Bihar,East,Furniture,Tables,Tables Product 56,12816.37,7,0.2,3029.56
+ORD-10045,2024-05-10,2024-05-11,CUST-503,Customer_304,Home Office,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 85,10066.22,7,0.05,2800.7
+ORD-10046,2025-01-23,2025-01-29,CUST-316,Customer_233,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 44,2121.92,8,0.05,-164.18
+ORD-10047,2024-02-23,2024-02-29,CUST-329,Customer_333,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 100,12540.17,8,0.0,2972.78
+ORD-10048,2025-04-29,2025-05-01,CUST-677,Customer_112,Corporate,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 90,12604.51,10,0.05,92.58
+ORD-10049,2024-04-20,2024-04-21,CUST-419,Customer_295,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 117,9147.99,2,0.05,3056.57
+ORD-10050,2024-11-04,2024-11-06,CUST-915,Customer_290,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 45,1232.35,4,0.0,263.4
+ORD-10051,2024-04-18,2024-04-25,CUST-470,Customer_326,Corporate,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 91,9748.39,1,0.15,2632.54
+ORD-10052,2025-07-05,2025-07-13,CUST-576,Customer_224,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 76,7874.03,5,0.2,2076.3
+ORD-10053,2025-08-06,2025-08-13,CUST-444,Customer_15,Corporate,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 109,4256.03,8,0.05,1011.72
+ORD-10054,2025-09-02,2025-09-07,CUST-669,Customer_6,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 25,5386.89,5,0.1,139.23
+ORD-10055,2025-05-17,2025-05-25,CUST-911,Customer_9,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 38,7379.81,4,0.15,1407.01
+ORD-10056,2025-06-27,2025-07-03,CUST-535,Customer_282,Corporate,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 46,4662.47,10,0.1,526.71
+ORD-10057,2025-07-02,2025-07-05,CUST-296,Customer_111,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 62,3535.02,4,0.1,-163.32
+ORD-10058,2025-12-26,2025-12-29,CUST-380,Customer_24,Consumer,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 71,4514.07,6,0.05,162.6
+ORD-10059,2025-05-05,2025-05-13,CUST-448,Customer_95,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 33,1628.56,1,0.2,45.52
+ORD-10060,2025-07-30,2025-08-04,CUST-187,Customer_128,Consumer,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 72,7427.02,10,0.0,-235.61
+ORD-10061,2025-03-15,2025-03-20,CUST-682,Customer_318,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Paper,Paper Product 79,6812.67,8,0.1,1955.75
+ORD-10062,2025-07-19,2025-07-21,CUST-260,Customer_2,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 58,4043.23,2,0.05,32.1
+ORD-10063,2024-08-27,2024-09-01,CUST-906,Customer_321,Home Office,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 85,4392.76,5,0.15,-298.57
+ORD-10064,2024-03-14,2024-03-15,CUST-269,Customer_158,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 96,3449.66,3,0.1,938.25
+ORD-10065,2025-05-20,2025-05-28,CUST-182,Customer_307,Consumer,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 114,10361.3,7,0.1,1297.36
+ORD-10066,2024-01-22,2024-01-27,CUST-690,Customer_21,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 61,485.39,4,0.2,79.7
+ORD-10067,2025-02-22,2025-02-28,CUST-428,Customer_344,Consumer,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 110,6594.69,8,0.0,735.34
+ORD-10068,2024-03-31,2024-04-06,CUST-358,Customer_166,Consumer,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 99,7482.49,7,0.2,-624.69
+ORD-10069,2025-09-29,2025-10-07,CUST-740,Customer_227,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 27,6983.45,1,0.05,930.88
+ORD-10070,2025-10-07,2025-10-11,CUST-826,Customer_82,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 71,13224.61,8,0.0,-1150.66
+ORD-10071,2025-10-25,2025-10-28,CUST-610,Customer_150,Home Office,India,Patna,Bihar,East,Technology,Phones,Phones Product 91,14884.63,2,0.15,4855.03
+ORD-10072,2025-09-05,2025-09-08,CUST-984,Customer_36,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 99,3731.59,9,0.05,270.96
+ORD-10073,2025-08-16,2025-08-24,CUST-986,Customer_77,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 69,12326.19,5,0.1,3412.68
+ORD-10074,2024-07-12,2024-07-16,CUST-685,Customer_197,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 110,11466.8,7,0.15,3666.89
+ORD-10075,2025-10-29,2025-11-01,CUST-607,Customer_19,Consumer,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 65,7147.35,7,0.15,2464.31
+ORD-10076,2025-02-23,2025-02-26,CUST-176,Customer_241,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 44,7936.67,8,0.0,1786.54
+ORD-10077,2025-05-14,2025-05-15,CUST-732,Customer_36,Consumer,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 81,12904.2,7,0.1,2349.33
+ORD-10078,2025-12-11,2025-12-16,CUST-129,Customer_24,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 102,6566.17,2,0.0,654.35
+ORD-10079,2025-11-29,2025-12-02,CUST-274,Customer_90,Consumer,India,Patna,Bihar,East,Furniture,Tables,Tables Product 79,6517.23,4,0.2,556.72
+ORD-10080,2025-11-13,2025-11-14,CUST-923,Customer_239,Corporate,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 87,2232.45,8,0.1,238.44
+ORD-10081,2025-04-12,2025-04-17,CUST-303,Customer_197,Corporate,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 14,14816.01,5,0.15,3120.86
+ORD-10082,2025-11-05,2025-11-12,CUST-381,Customer_5,Home Office,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 111,8664.7,5,0.0,2946.65
+ORD-10083,2025-09-27,2025-10-02,CUST-794,Customer_338,Home Office,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 108,9145.27,6,0.05,1705.39
+ORD-10084,2024-05-14,2024-05-16,CUST-402,Customer_168,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 54,687.4,8,0.0,110.54
+ORD-10085,2024-10-06,2024-10-09,CUST-363,Customer_247,Corporate,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 96,13159.26,6,0.2,1655.54
+ORD-10086,2025-07-24,2025-07-30,CUST-192,Customer_203,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 34,2197.28,4,0.15,736.69
+ORD-10087,2025-10-15,2025-10-21,CUST-210,Customer_346,Consumer,India,Patna,Bihar,East,Furniture,Storage,Storage Product 61,11260.27,5,0.2,804.68
+ORD-10088,2024-04-29,2024-05-02,CUST-146,Customer_20,Corporate,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 64,9750.02,8,0.1,1873.54
+ORD-10089,2025-12-14,2025-12-21,CUST-701,Customer_80,Corporate,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 84,2121.39,8,0.1,427.92
+ORD-10090,2024-08-10,2024-08-18,CUST-555,Customer_121,Corporate,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 13,14091.89,5,0.0,2968.12
+ORD-10091,2024-08-05,2024-08-06,CUST-151,Customer_171,Consumer,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 17,4210.63,2,0.15,-247.36
+ORD-10092,2025-09-02,2025-09-03,CUST-383,Customer_75,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 70,8837.11,4,0.1,2195.72
+ORD-10093,2024-08-31,2024-09-06,CUST-116,Customer_90,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 7,13010.07,3,0.0,796.33
+ORD-10094,2025-06-09,2025-06-11,CUST-562,Customer_258,Consumer,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 79,11210.41,8,0.15,2803.81
+ORD-10095,2025-03-12,2025-03-14,CUST-602,Customer_228,Consumer,India,Patna,Bihar,East,Furniture,Storage,Storage Product 116,14463.99,1,0.15,4068.49
+ORD-10096,2025-07-15,2025-07-21,CUST-490,Customer_306,Home Office,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 38,1078.67,5,0.2,199.43
+ORD-10097,2024-08-21,2024-08-28,CUST-447,Customer_233,Corporate,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 54,1804.77,9,0.05,168.8
+ORD-10098,2025-04-30,2025-05-02,CUST-193,Customer_44,Consumer,India,Patna,Bihar,East,Furniture,Tables,Tables Product 56,10010.11,6,0.05,2092.81
+ORD-10099,2024-05-05,2024-05-12,CUST-462,Customer_341,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 112,993.72,9,0.2,48.04
+ORD-10100,2025-11-03,2025-11-11,CUST-329,Customer_56,Corporate,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 109,5339.53,10,0.2,-22.79
+ORD-10101,2025-09-28,2025-09-29,CUST-723,Customer_337,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 35,3469.77,7,0.2,1174.68
+ORD-10102,2024-05-26,2024-06-02,CUST-171,Customer_73,Home Office,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 82,11459.9,6,0.1,-1114.5
+ORD-10103,2025-01-13,2025-01-18,CUST-838,Customer_167,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 77,3305.48,7,0.15,176.52
+ORD-10104,2025-11-08,2025-11-15,CUST-597,Customer_311,Corporate,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 54,11341.09,1,0.0,254.57
+ORD-10105,2025-08-30,2025-09-07,CUST-639,Customer_342,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 6,5243.08,2,0.1,1075.87
+ORD-10106,2024-09-18,2024-09-23,CUST-435,Customer_62,Consumer,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 64,214.54,5,0.05,52.63
+ORD-10107,2025-11-15,2025-11-21,CUST-173,Customer_204,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 6,8035.48,4,0.2,1216.78
+ORD-10108,2025-12-27,2026-01-03,CUST-396,Customer_59,Corporate,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 3,12945.44,10,0.15,2045.77
+ORD-10109,2024-04-18,2024-04-22,CUST-546,Customer_302,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 68,12497.19,6,0.0,1206.23
+ORD-10110,2025-10-10,2025-10-12,CUST-643,Customer_262,Consumer,India,Patna,Bihar,East,Furniture,Storage,Storage Product 116,5158.75,6,0.05,-338.57
+ORD-10111,2024-07-21,2024-07-24,CUST-716,Customer_79,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 10,12244.05,4,0.0,-417.52
+ORD-10112,2025-10-01,2025-10-07,CUST-984,Customer_322,Corporate,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 20,11422.17,8,0.2,2162.75
+ORD-10113,2025-06-03,2025-06-05,CUST-417,Customer_237,Corporate,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 5,9507.64,5,0.2,-710.44
+ORD-10114,2025-01-28,2025-02-05,CUST-694,Customer_284,Home Office,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 115,9705.53,2,0.2,1624.08
+ORD-10115,2024-03-04,2024-03-12,CUST-205,Customer_176,Home Office,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 11,2904.77,10,0.15,364.88
+ORD-10116,2024-06-11,2024-06-17,CUST-481,Customer_145,Corporate,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 53,6622.6,8,0.2,895.62
+ORD-10117,2025-01-30,2025-02-04,CUST-358,Customer_337,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 112,5086.28,6,0.0,768.45
+ORD-10118,2025-12-16,2025-12-23,CUST-232,Customer_305,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 11,9987.82,6,0.1,3350.55
+ORD-10119,2025-03-09,2025-03-15,CUST-118,Customer_186,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 24,12216.45,9,0.0,2329.81
+ORD-10120,2024-04-13,2024-04-14,CUST-777,Customer_173,Home Office,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 17,3475.49,3,0.05,-226.87
+ORD-10121,2024-02-14,2024-02-21,CUST-473,Customer_347,Home Office,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 31,12487.04,10,0.05,2803.74
+ORD-10122,2025-04-25,2025-04-29,CUST-476,Customer_348,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 57,3586.64,4,0.1,1199.8
+ORD-10123,2024-05-21,2024-05-26,CUST-153,Customer_329,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 112,7959.15,3,0.05,2073.89
+ORD-10124,2024-10-06,2024-10-14,CUST-625,Customer_76,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 12,12782.37,5,0.0,3111.26
+ORD-10125,2025-01-30,2025-02-01,CUST-483,Customer_115,Consumer,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 41,6281.96,7,0.2,428.95
+ORD-10126,2025-04-25,2025-05-03,CUST-730,Customer_3,Consumer,India,Patna,Bihar,East,Technology,Phones,Phones Product 3,670.72,8,0.05,161.96
+ORD-10127,2024-10-22,2024-10-26,CUST-408,Customer_63,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 31,14109.37,10,0.2,1276.4
+ORD-10128,2025-10-09,2025-10-13,CUST-835,Customer_74,Corporate,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 55,12566.65,8,0.2,1774.72
+ORD-10129,2024-03-10,2024-03-11,CUST-499,Customer_241,Consumer,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 82,6306.86,2,0.2,2135.47
+ORD-10130,2025-11-03,2025-11-05,CUST-890,Customer_298,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 97,342.01,2,0.1,2.91
+ORD-10131,2025-05-05,2025-05-08,CUST-930,Customer_70,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 92,8235.6,3,0.15,2811.38
+ORD-10132,2024-11-13,2024-11-20,CUST-934,Customer_279,Corporate,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 33,752.71,4,0.0,31.63
+ORD-10133,2025-01-11,2025-01-18,CUST-509,Customer_226,Corporate,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 44,12945.86,1,0.1,297.07
+ORD-10134,2025-03-10,2025-03-12,CUST-540,Customer_309,Consumer,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 70,5573.47,9,0.1,1451.98
+ORD-10135,2025-03-12,2025-03-15,CUST-806,Customer_228,Corporate,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 58,4986.01,5,0.1,501.9
+ORD-10136,2025-02-19,2025-02-25,CUST-625,Customer_348,Consumer,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 4,4190.87,1,0.0,846.69
+ORD-10137,2025-08-03,2025-08-04,CUST-719,Customer_79,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 58,1101.78,6,0.1,79.64
+ORD-10138,2025-10-27,2025-11-01,CUST-355,Customer_59,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 95,8651.43,9,0.1,684.46
+ORD-10139,2025-12-21,2025-12-29,CUST-319,Customer_314,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 89,13711.78,2,0.1,3410.59
+ORD-10140,2025-03-31,2025-04-02,CUST-929,Customer_350,Corporate,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 86,12807.11,8,0.05,3898.56
+ORD-10141,2025-12-18,2025-12-21,CUST-912,Customer_186,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 29,4426.4,5,0.05,975.2
+ORD-10142,2025-01-12,2025-01-20,CUST-922,Customer_283,Consumer,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 79,11876.56,1,0.1,1773.28
+ORD-10143,2025-02-23,2025-02-25,CUST-228,Customer_163,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 10,14993.97,8,0.2,1272.36
+ORD-10144,2024-05-12,2024-05-19,CUST-614,Customer_29,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 67,5233.27,9,0.2,-94.81
+ORD-10145,2025-06-15,2025-06-20,CUST-966,Customer_41,Corporate,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 26,4907.65,4,0.1,1601.7
+ORD-10146,2025-08-29,2025-09-01,CUST-275,Customer_338,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 93,9254.98,2,0.2,1744.05
+ORD-10147,2025-08-08,2025-08-15,CUST-732,Customer_328,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 64,777.38,10,0.1,150.04
+ORD-10148,2025-12-06,2025-12-07,CUST-261,Customer_226,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 62,12089.85,7,0.1,1258.49
+ORD-10149,2024-05-13,2024-05-19,CUST-627,Customer_288,Consumer,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 41,2240.66,6,0.1,759.4
+ORD-10150,2025-01-28,2025-02-04,CUST-354,Customer_82,Corporate,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 120,6798.98,3,0.0,-525.07
+ORD-10151,2025-05-24,2025-05-25,CUST-192,Customer_202,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 59,14939.94,8,0.15,4416.01
+ORD-10152,2025-10-31,2025-11-08,CUST-392,Customer_275,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 109,825.01,5,0.15,139.33
+ORD-10153,2024-02-22,2024-02-26,CUST-471,Customer_284,Corporate,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 10,10939.87,7,0.1,-871.26
+ORD-10154,2024-04-09,2024-04-16,CUST-482,Customer_174,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 47,12397.14,10,0.2,-576.9
+ORD-10155,2025-12-31,2026-01-06,CUST-923,Customer_243,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 59,6080.67,1,0.0,-501.59
+ORD-10156,2024-11-02,2024-11-08,CUST-619,Customer_261,Home Office,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 63,4846.1,7,0.2,1127.66
+ORD-10157,2025-12-05,2025-12-06,CUST-711,Customer_243,Corporate,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 84,5035.47,2,0.15,819.1
+ORD-10158,2025-11-28,2025-12-02,CUST-132,Customer_294,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 15,2640.63,10,0.15,-88.46
+ORD-10159,2025-09-18,2025-09-26,CUST-993,Customer_32,Home Office,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 18,6339.83,7,0.05,536.79
+ORD-10160,2025-06-29,2025-07-05,CUST-659,Customer_182,Home Office,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 99,7929.61,6,0.05,847.27
+ORD-10161,2024-10-31,2024-11-05,CUST-821,Customer_107,Home Office,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 91,4257.2,5,0.05,1377.92
+ORD-10162,2025-11-23,2025-11-30,CUST-504,Customer_177,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 38,8451.27,5,0.1,-381.63
+ORD-10163,2024-08-07,2024-08-11,CUST-947,Customer_276,Corporate,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 120,5260.82,8,0.1,1243.14
+ORD-10164,2025-06-27,2025-07-01,CUST-753,Customer_120,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 13,11139.28,4,0.05,-859.46
+ORD-10165,2024-06-10,2024-06-17,CUST-768,Customer_244,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 84,1598.12,3,0.0,533.83
+ORD-10166,2024-02-08,2024-02-11,CUST-527,Customer_91,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 108,9723.88,2,0.2,43.75
+ORD-10167,2025-08-04,2025-08-06,CUST-443,Customer_146,Corporate,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 83,14435.76,5,0.0,-1383.38
+ORD-10168,2025-04-14,2025-04-19,CUST-835,Customer_96,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Paper,Paper Product 95,4165.27,2,0.1,-111.95
+ORD-10169,2025-02-19,2025-02-26,CUST-627,Customer_168,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 52,11383.51,3,0.2,3247.33
+ORD-10170,2024-08-29,2024-09-06,CUST-871,Customer_137,Corporate,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 39,4921.66,4,0.0,85.41
+ORD-10171,2024-06-12,2024-06-19,CUST-802,Customer_258,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 99,10422.25,1,0.0,1140.48
+ORD-10172,2025-05-04,2025-05-07,CUST-565,Customer_311,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 54,5576.4,4,0.05,1844.74
+ORD-10173,2025-12-21,2025-12-27,CUST-179,Customer_289,Consumer,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 8,11345.62,2,0.2,1146.32
+ORD-10174,2025-08-20,2025-08-28,CUST-193,Customer_262,Corporate,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 104,12831.84,8,0.0,2645.06
+ORD-10175,2025-11-19,2025-11-24,CUST-840,Customer_12,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 33,6289.83,10,0.0,952.65
+ORD-10176,2024-03-02,2024-03-04,CUST-583,Customer_17,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 53,774.82,6,0.0,111.2
+ORD-10177,2025-01-26,2025-02-03,CUST-990,Customer_194,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 11,9723.62,7,0.1,3372.01
+ORD-10178,2024-08-16,2024-08-17,CUST-874,Customer_12,Corporate,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 60,14893.42,7,0.2,-635.86
+ORD-10179,2024-04-25,2024-04-26,CUST-928,Customer_339,Corporate,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 79,6963.32,3,0.1,-105.73
+ORD-10180,2025-12-21,2025-12-22,CUST-350,Customer_23,Corporate,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 57,1603.36,1,0.15,270.97
+ORD-10181,2025-08-12,2025-08-18,CUST-691,Customer_307,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 105,7608.05,5,0.05,2032.14
+ORD-10182,2024-10-08,2024-10-09,CUST-670,Customer_303,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 117,14786.86,9,0.05,1273.18
+ORD-10183,2024-11-22,2024-11-29,CUST-518,Customer_77,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 49,798.57,6,0.15,202.53
+ORD-10184,2025-07-29,2025-08-05,CUST-526,Customer_286,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 18,4580.97,3,0.15,1427.58
+ORD-10185,2024-04-04,2024-04-08,CUST-152,Customer_138,Corporate,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 87,5020.92,2,0.15,1411.93
+ORD-10186,2024-12-06,2024-12-11,CUST-115,Customer_109,Consumer,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 95,10892.15,9,0.05,1260.52
+ORD-10187,2025-07-19,2025-07-25,CUST-894,Customer_145,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 60,9105.58,4,0.15,2839.18
+ORD-10188,2025-04-25,2025-05-01,CUST-308,Customer_190,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 53,7740.97,8,0.15,-430.6
+ORD-10189,2025-03-03,2025-03-08,CUST-256,Customer_101,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 30,341.68,9,0.2,54.88
+ORD-10190,2025-05-15,2025-05-23,CUST-571,Customer_87,Home Office,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 102,9853.66,6,0.1,2399.49
+ORD-10191,2024-03-01,2024-03-02,CUST-959,Customer_39,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 7,8243.54,3,0.2,2849.34
+ORD-10192,2025-04-11,2025-04-17,CUST-161,Customer_317,Home Office,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 86,3548.36,3,0.0,-5.59
+ORD-10193,2024-10-08,2024-10-13,CUST-117,Customer_258,Home Office,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 87,8029.97,7,0.0,-742.56
+ORD-10194,2024-09-15,2024-09-21,CUST-373,Customer_204,Consumer,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 48,7913.34,4,0.05,1415.71
+ORD-10195,2024-03-23,2024-03-24,CUST-195,Customer_208,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 49,14854.47,4,0.1,3087.04
+ORD-10196,2025-10-22,2025-10-28,CUST-679,Customer_49,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 118,10572.39,2,0.15,2964.48
+ORD-10197,2024-03-17,2024-03-22,CUST-656,Customer_289,Home Office,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 5,13324.56,8,0.1,-1053.27
+ORD-10198,2025-07-31,2025-08-04,CUST-680,Customer_200,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 115,8846.84,7,0.0,306.76
+ORD-10199,2024-12-20,2024-12-21,CUST-200,Customer_224,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Binders,Binders Product 108,11878.42,2,0.2,2796.84
+ORD-10200,2024-10-06,2024-10-14,CUST-602,Customer_117,Corporate,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 71,14327.39,7,0.1,-1241.73
+ORD-10201,2024-10-29,2024-11-02,CUST-830,Customer_38,Consumer,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 35,8829.54,7,0.0,2185.09
+ORD-10202,2024-04-03,2024-04-04,CUST-415,Customer_228,Corporate,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 98,2398.73,7,0.1,149.48
+ORD-10203,2025-02-21,2025-02-23,CUST-126,Customer_46,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 71,2892.14,8,0.2,432.76
+ORD-10204,2025-07-26,2025-07-30,CUST-685,Customer_267,Consumer,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 88,4448.53,7,0.0,1006.17
+ORD-10205,2025-03-21,2025-03-26,CUST-531,Customer_154,Corporate,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 101,4586.86,8,0.05,-328.1
+ORD-10206,2025-04-13,2025-04-15,CUST-238,Customer_156,Consumer,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 51,10841.4,8,0.2,1924.36
+ORD-10207,2025-09-09,2025-09-13,CUST-590,Customer_161,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 51,5087.57,10,0.05,179.06
+ORD-10208,2024-10-14,2024-10-21,CUST-473,Customer_59,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 26,9530.25,10,0.05,444.57
+ORD-10209,2025-12-10,2025-12-12,CUST-938,Customer_210,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 64,14150.33,4,0.15,3664.35
+ORD-10210,2025-09-04,2025-09-12,CUST-696,Customer_206,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 65,9914.08,7,0.15,-661.42
+ORD-10211,2024-03-28,2024-03-30,CUST-887,Customer_128,Home Office,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 86,13442.97,9,0.2,2516.27
+ORD-10212,2025-03-16,2025-03-18,CUST-110,Customer_51,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 29,760.02,7,0.1,254.28
+ORD-10213,2024-01-26,2024-02-03,CUST-207,Customer_152,Corporate,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 118,6999.64,10,0.2,-225.14
+ORD-10214,2025-06-17,2025-06-25,CUST-456,Customer_244,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 57,5290.1,6,0.15,1337.98
+ORD-10215,2025-10-25,2025-10-27,CUST-793,Customer_85,Home Office,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 32,765.78,2,0.0,216.05
+ORD-10216,2025-10-06,2025-10-09,CUST-290,Customer_328,Home Office,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 56,6452.9,8,0.05,1671.24
+ORD-10217,2024-01-05,2024-01-09,CUST-310,Customer_143,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 104,13258.15,8,0.2,1236.97
+ORD-10218,2025-11-17,2025-11-25,CUST-640,Customer_328,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 77,5550.32,4,0.15,-270.41
+ORD-10219,2025-11-20,2025-11-25,CUST-729,Customer_303,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 87,5284.08,8,0.2,-118.17
+ORD-10220,2025-06-07,2025-06-14,CUST-528,Customer_306,Consumer,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 74,4650.16,3,0.1,986.05
+ORD-10221,2024-10-22,2024-10-25,CUST-291,Customer_162,Corporate,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 80,9568.97,3,0.2,-238.37
+ORD-10222,2025-05-21,2025-05-28,CUST-801,Customer_252,Corporate,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 91,2134.37,7,0.2,272.02
+ORD-10223,2024-08-18,2024-08-23,CUST-272,Customer_235,Home Office,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 96,8524.43,4,0.1,-727.02
+ORD-10224,2024-02-12,2024-02-20,CUST-659,Customer_112,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 14,4091.54,9,0.1,588.85
+ORD-10225,2024-04-30,2024-05-04,CUST-314,Customer_302,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 45,4015.95,2,0.15,1162.14
+ORD-10226,2025-06-29,2025-07-04,CUST-711,Customer_276,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 42,11794.25,4,0.0,1846.19
+ORD-10227,2025-02-25,2025-02-26,CUST-383,Customer_336,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 90,14290.72,9,0.0,-557.12
+ORD-10228,2025-08-14,2025-08-19,CUST-742,Customer_213,Corporate,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 58,4899.24,4,0.15,589.17
+ORD-10229,2024-12-01,2024-12-02,CUST-989,Customer_48,Home Office,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 59,11272.06,6,0.15,3692.89
+ORD-10230,2024-11-26,2024-12-01,CUST-445,Customer_281,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 17,3345.67,7,0.05,410.25
+ORD-10231,2024-06-10,2024-06-18,CUST-567,Customer_1,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 26,784.55,8,0.0,-34.59
+ORD-10232,2025-11-11,2025-11-14,CUST-153,Customer_203,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 40,1490.77,6,0.1,-93.79
+ORD-10233,2024-05-15,2024-05-19,CUST-631,Customer_349,Corporate,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 2,10585.1,1,0.05,1212.66
+ORD-10234,2024-04-01,2024-04-03,CUST-205,Customer_161,Corporate,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 113,10441.06,8,0.0,31.6
+ORD-10235,2024-01-09,2024-01-12,CUST-550,Customer_180,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 28,9659.48,3,0.0,1340.05
+ORD-10236,2024-05-23,2024-05-25,CUST-703,Customer_197,Corporate,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 55,6691.52,4,0.0,2030.65
+ORD-10237,2025-09-14,2025-09-19,CUST-897,Customer_14,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 113,9704.85,4,0.2,1654.19
+ORD-10238,2024-09-02,2024-09-10,CUST-495,Customer_58,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 64,7691.89,7,0.1,1467.43
+ORD-10239,2025-11-30,2025-12-03,CUST-881,Customer_242,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 3,2066.54,10,0.15,133.16
+ORD-10240,2025-10-05,2025-10-12,CUST-533,Customer_206,Consumer,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 82,693.42,1,0.15,88.74
+ORD-10241,2025-02-04,2025-02-06,CUST-417,Customer_224,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 109,1277.42,4,0.05,180.6
+ORD-10242,2024-02-26,2024-03-02,CUST-782,Customer_337,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 23,13876.95,2,0.15,2435.87
+ORD-10243,2025-06-19,2025-06-24,CUST-270,Customer_191,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 96,10552.34,3,0.15,3470.21
+ORD-10244,2025-12-30,2026-01-01,CUST-608,Customer_234,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 47,12125.91,5,0.2,-864.06
+ORD-10245,2025-11-21,2025-11-23,CUST-333,Customer_261,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 6,5578.55,5,0.0,1687.07
+ORD-10246,2024-02-06,2024-02-13,CUST-329,Customer_165,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 54,5523.25,3,0.05,1762.04
+ORD-10247,2025-06-12,2025-06-13,CUST-510,Customer_36,Corporate,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 111,5654.84,9,0.0,-109.11
+ORD-10248,2025-07-31,2025-08-05,CUST-857,Customer_319,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 60,8341.06,1,0.1,-80.89
+ORD-10249,2025-02-23,2025-02-24,CUST-338,Customer_278,Corporate,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 82,13516.61,4,0.05,-1312.87
+ORD-10250,2024-08-31,2024-09-07,CUST-603,Customer_31,Consumer,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 92,5706.49,5,0.0,-43.73
+ORD-10251,2025-01-16,2025-01-24,CUST-865,Customer_44,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 13,13469.58,9,0.15,2901.09
+ORD-10252,2024-09-24,2024-09-30,CUST-920,Customer_202,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 107,8560.53,7,0.05,56.05
+ORD-10253,2025-08-21,2025-08-23,CUST-259,Customer_55,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 58,3580.81,4,0.05,898.68
+ORD-10254,2024-09-28,2024-09-30,CUST-192,Customer_81,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 39,8085.28,4,0.15,313.21
+ORD-10255,2024-02-20,2024-02-25,CUST-366,Customer_90,Consumer,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 52,1459.07,4,0.1,114.26
+ORD-10256,2024-08-15,2024-08-18,CUST-302,Customer_206,Corporate,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 88,1618.42,3,0.0,-153.13
+ORD-10257,2024-04-04,2024-04-10,CUST-225,Customer_22,Corporate,India,Patna,Bihar,East,Technology,Phones,Phones Product 7,14957.71,4,0.15,3951.59
+ORD-10258,2024-08-07,2024-08-10,CUST-381,Customer_144,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 114,7492.28,7,0.15,-166.6
+ORD-10259,2025-07-17,2025-07-25,CUST-162,Customer_45,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 50,9292.96,5,0.15,793.59
+ORD-10260,2025-07-10,2025-07-11,CUST-491,Customer_184,Corporate,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 70,13281.32,9,0.05,2441.63
+ORD-10261,2025-09-03,2025-09-07,CUST-130,Customer_144,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 104,4891.91,5,0.05,-431.82
+ORD-10262,2024-09-29,2024-09-30,CUST-882,Customer_113,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 109,14612.3,2,0.05,2858.0
+ORD-10263,2024-01-29,2024-02-04,CUST-681,Customer_289,Consumer,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 73,3624.61,6,0.1,1128.31
+ORD-10264,2025-09-08,2025-09-12,CUST-120,Customer_270,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 1,2715.8,1,0.0,-202.94
+ORD-10265,2025-08-23,2025-08-26,CUST-892,Customer_57,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 111,10782.37,6,0.0,-971.91
+ORD-10266,2024-11-05,2024-11-11,CUST-239,Customer_81,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 56,14134.66,7,0.2,-770.84
+ORD-10267,2025-08-26,2025-08-29,CUST-487,Customer_158,Home Office,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 89,14534.27,10,0.1,6.64
+ORD-10268,2025-08-04,2025-08-05,CUST-286,Customer_309,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 118,126.79,10,0.15,35.86
+ORD-10269,2024-11-23,2024-11-26,CUST-751,Customer_46,Home Office,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 86,5034.41,2,0.05,282.25
+ORD-10270,2024-04-20,2024-04-21,CUST-149,Customer_198,Corporate,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 94,3224.3,2,0.1,49.96
+ORD-10271,2025-05-05,2025-05-09,CUST-266,Customer_232,Consumer,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 103,13238.38,6,0.2,912.21
+ORD-10272,2025-01-19,2025-01-22,CUST-849,Customer_39,Home Office,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 115,3990.8,2,0.0,214.76
+ORD-10273,2024-06-17,2024-06-24,CUST-260,Customer_28,Consumer,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 43,13409.07,1,0.15,4345.87
+ORD-10274,2024-10-31,2024-11-04,CUST-198,Customer_26,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 74,8356.28,9,0.1,1648.44
+ORD-10275,2025-10-02,2025-10-10,CUST-304,Customer_50,Consumer,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 27,156.85,2,0.1,42.47
+ORD-10276,2025-11-07,2025-11-12,CUST-193,Customer_329,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 50,12672.16,5,0.15,1418.33
+ORD-10277,2024-09-26,2024-09-30,CUST-957,Customer_138,Home Office,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 8,2880.09,1,0.1,281.91
+ORD-10278,2025-08-26,2025-08-30,CUST-666,Customer_32,Corporate,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 105,5222.49,9,0.15,1759.03
+ORD-10279,2024-02-05,2024-02-08,CUST-223,Customer_230,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 22,7196.31,2,0.15,2203.87
+ORD-10280,2025-10-04,2025-10-07,CUST-954,Customer_305,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 41,6408.29,7,0.05,2235.03
+ORD-10281,2024-01-13,2024-01-20,CUST-215,Customer_213,Consumer,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 19,6020.59,6,0.1,805.91
+ORD-10282,2024-09-27,2024-10-04,CUST-770,Customer_249,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 78,11807.61,9,0.1,3483.86
+ORD-10283,2025-02-15,2025-02-16,CUST-505,Customer_170,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 31,6104.31,10,0.2,1259.72
+ORD-10284,2025-05-18,2025-05-20,CUST-989,Customer_117,Consumer,India,Patna,Bihar,East,Furniture,Tables,Tables Product 39,401.47,5,0.1,10.5
+ORD-10285,2025-02-20,2025-02-28,CUST-877,Customer_265,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 106,6309.91,2,0.05,623.25
+ORD-10286,2025-06-20,2025-06-21,CUST-277,Customer_99,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 108,10672.58,7,0.05,2681.3
+ORD-10287,2025-04-20,2025-04-27,CUST-750,Customer_64,Home Office,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 4,853.33,6,0.05,19.87
+ORD-10288,2024-12-18,2024-12-21,CUST-957,Customer_133,Home Office,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 107,6746.94,8,0.2,999.22
+ORD-10289,2025-10-24,2025-10-28,CUST-793,Customer_106,Corporate,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 84,839.8,10,0.05,239.93
+ORD-10290,2024-01-09,2024-01-13,CUST-358,Customer_312,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 92,7164.05,3,0.05,1221.57
+ORD-10291,2025-06-17,2025-06-24,CUST-698,Customer_53,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 66,6939.07,4,0.15,249.57
+ORD-10292,2025-10-17,2025-10-23,CUST-982,Customer_142,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 84,1710.76,2,0.1,589.81
+ORD-10293,2024-11-23,2024-11-26,CUST-838,Customer_14,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 64,11505.57,1,0.2,941.67
+ORD-10294,2025-08-08,2025-08-12,CUST-451,Customer_114,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 69,5885.3,1,0.2,1286.71
+ORD-10295,2025-04-27,2025-04-30,CUST-858,Customer_133,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 104,12696.75,9,0.05,408.87
+ORD-10296,2024-12-05,2024-12-11,CUST-366,Customer_300,Corporate,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 60,3411.58,4,0.1,304.36
+ORD-10297,2024-07-18,2024-07-20,CUST-988,Customer_349,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 68,8795.26,10,0.0,989.46
+ORD-10298,2025-08-06,2025-08-14,CUST-246,Customer_162,Home Office,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 24,2146.74,4,0.1,180.62
+ORD-10299,2024-10-07,2024-10-11,CUST-879,Customer_87,Home Office,India,Patna,Bihar,East,Furniture,Storage,Storage Product 98,14800.94,6,0.0,-1448.7
+ORD-10300,2025-05-03,2025-05-10,CUST-104,Customer_20,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 26,9255.75,7,0.15,861.35
+ORD-10301,2024-12-18,2024-12-23,CUST-232,Customer_53,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 65,2939.59,1,0.05,5.35
+ORD-10302,2025-09-02,2025-09-08,CUST-544,Customer_69,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 116,4543.21,5,0.15,1033.69
+ORD-10303,2024-05-14,2024-05-18,CUST-851,Customer_12,Home Office,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 65,14226.46,7,0.0,39.67
+ORD-10304,2024-09-18,2024-09-19,CUST-708,Customer_25,Home Office,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 14,9793.05,1,0.15,2883.51
+ORD-10305,2025-04-30,2025-05-03,CUST-310,Customer_323,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 39,6309.96,7,0.0,923.0
+ORD-10306,2024-04-17,2024-04-19,CUST-389,Customer_59,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 64,4122.66,10,0.05,364.74
+ORD-10307,2024-02-10,2024-02-18,CUST-312,Customer_247,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 31,14599.48,6,0.15,480.44
+ORD-10308,2024-04-02,2024-04-04,CUST-840,Customer_52,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 83,13612.51,10,0.15,-447.65
+ORD-10309,2024-10-24,2024-10-30,CUST-920,Customer_347,Corporate,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 55,7017.73,2,0.05,2058.74
+ORD-10310,2025-03-24,2025-03-29,CUST-999,Customer_48,Corporate,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 105,12794.78,3,0.1,779.04
+ORD-10311,2025-12-07,2025-12-15,CUST-919,Customer_216,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 114,6063.73,8,0.1,1674.01
+ORD-10312,2025-08-27,2025-09-04,CUST-921,Customer_292,Home Office,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 57,10923.53,3,0.0,952.67
+ORD-10313,2024-04-25,2024-05-02,CUST-551,Customer_24,Consumer,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 34,529.36,3,0.15,166.31
+ORD-10314,2025-11-16,2025-11-22,CUST-631,Customer_268,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 90,7919.79,10,0.2,6.28
+ORD-10315,2025-07-25,2025-07-26,CUST-111,Customer_330,Consumer,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 65,3803.8,6,0.15,-125.93
+ORD-10316,2024-10-11,2024-10-12,CUST-619,Customer_115,Home Office,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 83,11296.31,6,0.05,552.42
+ORD-10317,2025-05-25,2025-06-02,CUST-423,Customer_61,Corporate,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 96,6940.51,10,0.15,-419.14
+ORD-10318,2025-09-10,2025-09-15,CUST-620,Customer_288,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 84,633.9,9,0.0,172.2
+ORD-10319,2025-09-26,2025-10-04,CUST-833,Customer_337,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 92,12267.17,8,0.1,1865.44
+ORD-10320,2024-10-25,2024-10-31,CUST-818,Customer_55,Consumer,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 115,3404.03,6,0.1,930.82
+ORD-10321,2024-07-19,2024-07-23,CUST-223,Customer_202,Consumer,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 59,11163.41,7,0.0,161.09
+ORD-10322,2025-04-06,2025-04-14,CUST-774,Customer_302,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 18,792.86,10,0.0,196.21
+ORD-10323,2025-06-04,2025-06-07,CUST-808,Customer_297,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 94,823.72,7,0.2,96.64
+ORD-10324,2025-03-04,2025-03-08,CUST-380,Customer_204,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 38,9048.14,6,0.2,2683.91
+ORD-10325,2025-07-14,2025-07-20,CUST-828,Customer_284,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 28,9077.61,9,0.1,2536.13
+ORD-10326,2025-10-27,2025-10-30,CUST-615,Customer_278,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 82,4429.63,6,0.05,1513.17
+ORD-10327,2025-06-30,2025-07-05,CUST-998,Customer_217,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 67,7257.51,10,0.15,1476.25
+ORD-10328,2024-06-13,2024-06-18,CUST-799,Customer_129,Consumer,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 108,890.67,1,0.05,17.94
+ORD-10329,2025-11-22,2025-11-26,CUST-860,Customer_332,Home Office,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 50,581.37,8,0.0,103.05
+ORD-10330,2025-12-02,2025-12-08,CUST-665,Customer_28,Consumer,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 96,800.0,7,0.15,69.96
+ORD-10331,2025-09-09,2025-09-13,CUST-894,Customer_100,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 58,12466.75,6,0.2,1819.86
+ORD-10332,2024-10-12,2024-10-17,CUST-233,Customer_83,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 109,11052.68,2,0.15,-903.17
+ORD-10333,2024-11-26,2024-11-27,CUST-892,Customer_321,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 108,10674.37,3,0.0,-329.13
+ORD-10334,2024-07-07,2024-07-09,CUST-905,Customer_259,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 54,5435.48,6,0.2,-5.53
+ORD-10335,2024-08-11,2024-08-19,CUST-674,Customer_333,Consumer,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 15,13262.61,6,0.1,827.04
+ORD-10336,2025-11-29,2025-12-05,CUST-490,Customer_59,Corporate,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 33,9244.15,10,0.05,3064.47
+ORD-10337,2024-10-30,2024-11-03,CUST-428,Customer_264,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 13,7763.21,9,0.15,924.3
+ORD-10338,2024-07-29,2024-08-05,CUST-762,Customer_37,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 88,3240.64,4,0.15,894.58
+ORD-10339,2024-09-14,2024-09-16,CUST-688,Customer_117,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 53,5042.56,2,0.0,-381.11
+ORD-10340,2025-07-01,2025-07-02,CUST-756,Customer_317,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 97,6552.07,1,0.15,1329.97
+ORD-10341,2025-03-24,2025-03-31,CUST-504,Customer_339,Consumer,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 61,1681.42,5,0.2,-102.69
+ORD-10342,2024-05-27,2024-06-01,CUST-793,Customer_332,Corporate,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 2,5925.79,9,0.1,1967.72
+ORD-10343,2024-03-28,2024-04-02,CUST-315,Customer_177,Consumer,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 53,8633.51,7,0.2,1263.83
+ORD-10344,2025-11-18,2025-11-19,CUST-971,Customer_282,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 83,9291.59,5,0.05,-449.9
+ORD-10345,2024-12-04,2024-12-10,CUST-231,Customer_344,Home Office,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 31,3835.25,4,0.2,457.3
+ORD-10346,2025-09-23,2025-09-28,CUST-810,Customer_300,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 73,13511.77,6,0.15,1388.88
+ORD-10347,2025-10-18,2025-10-25,CUST-383,Customer_185,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 87,172.0,4,0.05,37.92
+ORD-10348,2024-06-28,2024-06-30,CUST-961,Customer_144,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 115,5445.25,5,0.15,807.27
+ORD-10349,2025-10-08,2025-10-09,CUST-932,Customer_298,Home Office,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 52,1239.29,2,0.0,349.87
+ORD-10350,2024-06-01,2024-06-07,CUST-501,Customer_115,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 94,8197.69,9,0.15,1592.47
+ORD-10351,2025-11-09,2025-11-13,CUST-968,Customer_315,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 22,7705.14,7,0.1,970.66
+ORD-10352,2025-05-10,2025-05-16,CUST-141,Customer_113,Corporate,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 30,8538.72,10,0.05,1973.84
+ORD-10353,2025-01-04,2025-01-11,CUST-580,Customer_233,Consumer,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 6,737.85,4,0.2,227.61
+ORD-10354,2025-08-06,2025-08-09,CUST-485,Customer_335,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 47,9540.15,5,0.1,1530.09
+ORD-10355,2025-05-08,2025-05-09,CUST-613,Customer_72,Corporate,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 22,7793.94,6,0.1,928.16
+ORD-10356,2025-09-08,2025-09-10,CUST-776,Customer_118,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 104,4284.06,3,0.05,-125.05
+ORD-10357,2025-02-24,2025-02-25,CUST-349,Customer_23,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 74,7234.34,4,0.2,-198.5
+ORD-10358,2024-09-21,2024-09-24,CUST-629,Customer_208,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 73,683.94,10,0.05,-51.19
+ORD-10359,2025-02-24,2025-02-27,CUST-913,Customer_299,Consumer,India,Patna,Bihar,East,Technology,Phones,Phones Product 80,6793.13,8,0.15,-157.91
+ORD-10360,2024-08-23,2024-08-30,CUST-494,Customer_68,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 3,5205.8,8,0.2,862.96
+ORD-10361,2025-06-28,2025-06-30,CUST-195,Customer_247,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 17,1534.85,8,0.2,260.8
+ORD-10362,2025-05-08,2025-05-15,CUST-458,Customer_302,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 117,5618.62,1,0.2,522.7
+ORD-10363,2025-07-10,2025-07-17,CUST-363,Customer_97,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 91,7209.4,4,0.0,198.04
+ORD-10364,2024-04-19,2024-04-22,CUST-536,Customer_334,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 33,5687.95,4,0.1,477.68
+ORD-10365,2025-07-24,2025-08-01,CUST-283,Customer_190,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 72,9217.02,7,0.05,792.23
+ORD-10366,2025-11-06,2025-11-08,CUST-865,Customer_118,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 101,5230.91,7,0.05,1489.5
+ORD-10367,2025-12-01,2025-12-02,CUST-264,Customer_200,Home Office,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 1,6068.36,6,0.2,1069.92
+ORD-10368,2024-03-22,2024-03-23,CUST-841,Customer_197,Corporate,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 79,6587.12,2,0.1,-1.34
+ORD-10369,2025-06-14,2025-06-19,CUST-299,Customer_18,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 66,7466.09,1,0.05,2111.08
+ORD-10370,2024-10-09,2024-10-16,CUST-461,Customer_343,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 52,5460.13,1,0.05,-332.64
+ORD-10371,2025-07-26,2025-08-01,CUST-455,Customer_142,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 78,1122.4,2,0.2,31.45
+ORD-10372,2025-07-26,2025-07-28,CUST-615,Customer_151,Corporate,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 15,169.31,3,0.15,21.64
+ORD-10373,2024-12-13,2024-12-21,CUST-797,Customer_236,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 111,14494.23,10,0.15,3572.61
+ORD-10374,2025-02-26,2025-03-04,CUST-628,Customer_275,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 90,1106.56,4,0.05,287.79
+ORD-10375,2024-07-01,2024-07-09,CUST-421,Customer_182,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 115,6044.07,6,0.0,903.88
+ORD-10376,2024-08-28,2024-09-01,CUST-993,Customer_136,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 30,13960.8,4,0.15,3234.72
+ORD-10377,2025-11-23,2025-12-01,CUST-728,Customer_4,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 6,2424.33,2,0.0,761.44
+ORD-10378,2025-06-07,2025-06-12,CUST-507,Customer_114,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 17,7435.87,10,0.1,898.72
+ORD-10379,2024-06-27,2024-07-05,CUST-223,Customer_266,Corporate,India,Patna,Bihar,East,Furniture,Storage,Storage Product 41,585.18,6,0.15,168.05
+ORD-10380,2024-09-22,2024-09-25,CUST-661,Customer_135,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 35,5753.48,2,0.1,360.86
+ORD-10381,2025-01-16,2025-01-22,CUST-974,Customer_206,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 58,7531.67,4,0.15,1621.72
+ORD-10382,2025-07-22,2025-07-29,CUST-976,Customer_196,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 19,3505.64,2,0.1,917.91
+ORD-10383,2024-11-19,2024-11-27,CUST-407,Customer_129,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 110,6380.66,3,0.2,895.16
+ORD-10384,2025-10-06,2025-10-08,CUST-560,Customer_172,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 47,2533.79,4,0.1,289.97
+ORD-10385,2025-08-12,2025-08-15,CUST-899,Customer_146,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 42,6235.24,6,0.2,-65.28
+ORD-10386,2025-10-17,2025-10-23,CUST-531,Customer_324,Home Office,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 74,9243.59,8,0.05,2687.26
+ORD-10387,2025-12-28,2026-01-02,CUST-719,Customer_331,Corporate,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 35,5220.02,6,0.1,1011.93
+ORD-10388,2024-01-24,2024-01-27,CUST-845,Customer_121,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 33,7861.94,8,0.15,-194.24
+ORD-10389,2024-01-27,2024-02-03,CUST-636,Customer_43,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 34,1634.84,2,0.15,239.99
+ORD-10390,2024-05-09,2024-05-12,CUST-639,Customer_88,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 5,4709.62,4,0.1,468.24
+ORD-10391,2024-05-18,2024-05-21,CUST-705,Customer_306,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 81,14627.23,9,0.1,2147.94
+ORD-10392,2025-02-26,2025-03-03,CUST-259,Customer_156,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 1,8141.06,2,0.15,313.76
+ORD-10393,2025-03-16,2025-03-21,CUST-711,Customer_119,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 71,8072.97,8,0.15,281.14
+ORD-10394,2025-10-23,2025-10-30,CUST-948,Customer_194,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 34,6612.88,4,0.05,1466.22
+ORD-10395,2025-06-28,2025-07-03,CUST-522,Customer_97,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 24,7797.49,10,0.1,219.15
+ORD-10396,2025-05-18,2025-05-22,CUST-428,Customer_10,Consumer,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 7,6884.61,8,0.1,1481.66
+ORD-10397,2024-06-03,2024-06-04,CUST-605,Customer_112,Corporate,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 54,4111.01,8,0.0,19.59
+ORD-10398,2024-05-29,2024-05-30,CUST-372,Customer_201,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 70,10484.33,1,0.1,-669.94
+ORD-10399,2024-09-11,2024-09-18,CUST-889,Customer_227,Consumer,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 95,12277.04,1,0.0,4156.63
+ORD-10400,2025-11-28,2025-12-03,CUST-430,Customer_82,Home Office,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 94,11587.84,9,0.05,1306.78
+ORD-10401,2025-11-13,2025-11-17,CUST-215,Customer_121,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 56,9613.95,4,0.1,2878.26
+ORD-10402,2024-02-13,2024-02-21,CUST-804,Customer_306,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 48,8811.98,7,0.05,-845.79
+ORD-10403,2025-10-02,2025-10-03,CUST-161,Customer_183,Home Office,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 20,1461.88,10,0.1,466.17
+ORD-10404,2025-03-25,2025-03-29,CUST-121,Customer_194,Corporate,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 93,4819.42,9,0.1,1265.03
+ORD-10405,2025-05-16,2025-05-20,CUST-680,Customer_96,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 45,10628.73,9,0.1,1532.99
+ORD-10406,2024-06-07,2024-06-15,CUST-402,Customer_135,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 47,13725.66,9,0.05,-947.15
+ORD-10407,2025-01-07,2025-01-11,CUST-428,Customer_33,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 69,5747.75,3,0.0,1028.16
+ORD-10408,2024-11-26,2024-12-03,CUST-756,Customer_165,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 13,7513.48,9,0.05,1321.38
+ORD-10409,2024-04-11,2024-04-12,CUST-684,Customer_329,Corporate,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 85,13115.04,4,0.0,1553.04
+ORD-10410,2024-08-01,2024-08-09,CUST-952,Customer_41,Corporate,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 103,3388.77,2,0.0,1079.65
+ORD-10411,2024-02-29,2024-03-05,CUST-641,Customer_21,Home Office,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 10,14079.83,7,0.1,3624.32
+ORD-10412,2024-07-16,2024-07-20,CUST-683,Customer_321,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 72,1547.08,4,0.2,113.55
+ORD-10413,2024-06-19,2024-06-22,CUST-663,Customer_206,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 44,5433.65,8,0.15,1615.27
+ORD-10414,2025-10-10,2025-10-17,CUST-945,Customer_166,Home Office,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 31,8296.21,6,0.1,709.78
+ORD-10415,2024-01-01,2024-01-02,CUST-391,Customer_306,Consumer,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 67,3885.93,8,0.15,1289.82
+ORD-10416,2025-12-07,2025-12-12,CUST-666,Customer_262,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 74,14767.48,4,0.1,-1332.53
+ORD-10417,2025-08-19,2025-08-23,CUST-338,Customer_132,Corporate,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 12,5399.27,3,0.1,351.96
+ORD-10418,2025-12-07,2025-12-09,CUST-709,Customer_329,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 5,10881.35,8,0.05,1302.76
+ORD-10419,2024-05-03,2024-05-07,CUST-865,Customer_335,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 119,5284.16,7,0.15,1683.59
+ORD-10420,2024-11-30,2024-12-04,CUST-256,Customer_26,Home Office,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 94,7913.31,6,0.2,1220.32
+ORD-10421,2025-02-07,2025-02-10,CUST-235,Customer_173,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 61,7620.47,4,0.15,231.68
+ORD-10422,2025-05-07,2025-05-11,CUST-599,Customer_203,Home Office,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 74,6038.05,7,0.05,1466.73
+ORD-10423,2025-08-12,2025-08-14,CUST-215,Customer_344,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 55,4067.23,7,0.1,846.52
+ORD-10424,2024-12-24,2025-01-01,CUST-738,Customer_75,Corporate,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 6,5233.42,1,0.1,-124.74
+ORD-10425,2024-09-05,2024-09-08,CUST-989,Customer_148,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 44,2424.27,2,0.0,564.4
+ORD-10426,2025-07-13,2025-07-18,CUST-661,Customer_248,Home Office,India,Patna,Bihar,East,Furniture,Tables,Tables Product 94,438.95,4,0.2,-2.04
+ORD-10427,2024-03-02,2024-03-07,CUST-305,Customer_317,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 7,13600.0,9,0.0,203.39
+ORD-10428,2025-10-26,2025-11-02,CUST-336,Customer_195,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 91,9939.56,6,0.0,-908.62
+ORD-10429,2025-04-13,2025-04-14,CUST-140,Customer_127,Home Office,India,Patna,Bihar,East,Furniture,Storage,Storage Product 40,8020.25,3,0.05,1004.88
+ORD-10430,2024-11-05,2024-11-09,CUST-613,Customer_142,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 81,2439.38,6,0.1,146.17
+ORD-10431,2025-02-06,2025-02-09,CUST-189,Customer_196,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 87,14241.83,4,0.05,766.26
+ORD-10432,2025-07-09,2025-07-12,CUST-311,Customer_335,Consumer,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 75,2375.96,5,0.2,114.47
+ORD-10433,2024-05-28,2024-05-31,CUST-425,Customer_35,Home Office,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 69,10606.53,9,0.05,992.02
+ORD-10434,2024-11-06,2024-11-14,CUST-863,Customer_327,Home Office,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 36,10933.49,6,0.15,3635.8
+ORD-10435,2025-08-03,2025-08-07,CUST-710,Customer_119,Consumer,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 88,2852.72,10,0.2,57.31
+ORD-10436,2025-04-25,2025-05-01,CUST-288,Customer_199,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 61,11719.41,3,0.2,3290.37
+ORD-10437,2024-08-15,2024-08-19,CUST-875,Customer_105,Consumer,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 23,580.22,1,0.1,190.07
+ORD-10438,2024-02-12,2024-02-19,CUST-837,Customer_161,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 79,13014.95,4,0.15,1069.7
+ORD-10439,2025-02-09,2025-02-10,CUST-671,Customer_199,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 98,12422.45,1,0.05,1657.36
+ORD-10440,2025-03-08,2025-03-13,CUST-727,Customer_28,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 67,6030.79,5,0.1,648.95
+ORD-10441,2025-08-22,2025-08-25,CUST-502,Customer_212,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 58,1447.57,9,0.0,-27.65
+ORD-10442,2024-11-27,2024-11-30,CUST-835,Customer_64,Consumer,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 15,13459.6,4,0.15,-799.76
+ORD-10443,2025-01-22,2025-01-29,CUST-144,Customer_88,Corporate,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 73,10638.46,9,0.2,3482.92
+ORD-10444,2025-04-01,2025-04-06,CUST-741,Customer_93,Consumer,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 116,11560.44,1,0.15,446.56
+ORD-10445,2025-05-25,2025-05-26,CUST-722,Customer_253,Consumer,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 28,11504.4,1,0.15,1425.77
+ORD-10446,2025-07-14,2025-07-19,CUST-734,Customer_322,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 105,1283.13,10,0.0,12.99
+ORD-10447,2024-02-03,2024-02-08,CUST-439,Customer_45,Consumer,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 14,920.45,6,0.0,-31.83
+ORD-10448,2024-06-30,2024-07-08,CUST-867,Customer_297,Corporate,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 120,4337.27,10,0.2,1102.92
+ORD-10449,2025-07-17,2025-07-19,CUST-399,Customer_242,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 16,5591.68,7,0.0,1349.27
+ORD-10450,2025-08-08,2025-08-10,CUST-595,Customer_310,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 37,7917.23,4,0.2,-584.43
+ORD-10451,2025-09-21,2025-09-29,CUST-632,Customer_324,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 64,8669.63,10,0.1,2749.98
+ORD-10452,2025-10-02,2025-10-04,CUST-855,Customer_107,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 54,14690.94,1,0.0,-1310.52
+ORD-10453,2025-12-07,2025-12-12,CUST-360,Customer_35,Corporate,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 39,8450.19,4,0.0,1590.99
+ORD-10454,2024-01-30,2024-02-02,CUST-298,Customer_170,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 119,5065.92,7,0.2,897.67
+ORD-10455,2025-07-03,2025-07-09,CUST-573,Customer_212,Home Office,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 8,2122.73,3,0.15,639.85
+ORD-10456,2024-12-28,2024-12-30,CUST-252,Customer_144,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 44,378.9,10,0.1,98.43
+ORD-10457,2024-11-11,2024-11-17,CUST-826,Customer_17,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 53,5904.54,10,0.0,1706.81
+ORD-10458,2024-06-28,2024-06-30,CUST-483,Customer_20,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 117,6833.4,5,0.05,931.36
+ORD-10459,2025-05-10,2025-05-15,CUST-894,Customer_168,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 99,12005.48,9,0.05,-172.94
+ORD-10460,2024-11-14,2024-11-15,CUST-803,Customer_305,Consumer,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 43,644.63,7,0.2,-30.86
+ORD-10461,2024-11-15,2024-11-19,CUST-428,Customer_103,Consumer,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 37,11516.08,5,0.0,1841.44
+ORD-10462,2024-01-16,2024-01-18,CUST-311,Customer_278,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 71,1853.0,3,0.05,42.87
+ORD-10463,2024-11-14,2024-11-20,CUST-653,Customer_228,Consumer,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 17,12079.64,10,0.05,-276.94
+ORD-10464,2024-07-02,2024-07-10,CUST-731,Customer_183,Corporate,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 43,1678.31,1,0.0,154.25
+ORD-10465,2025-12-01,2025-12-09,CUST-581,Customer_119,Consumer,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 19,2063.75,8,0.0,216.72
+ORD-10466,2024-01-31,2024-02-02,CUST-586,Customer_58,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 62,10524.26,6,0.1,1094.28
+ORD-10467,2024-04-19,2024-04-25,CUST-669,Customer_333,Consumer,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 102,9106.16,3,0.2,-488.82
+ORD-10468,2025-05-08,2025-05-15,CUST-167,Customer_175,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 105,6260.28,10,0.05,917.61
+ORD-10469,2024-03-20,2024-03-28,CUST-217,Customer_304,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 60,8213.45,4,0.05,1627.7
+ORD-10470,2025-12-02,2025-12-09,CUST-435,Customer_254,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 85,4689.73,7,0.0,793.58
+ORD-10471,2025-04-08,2025-04-13,CUST-499,Customer_316,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 58,13320.2,1,0.05,2629.36
+ORD-10472,2024-12-18,2024-12-20,CUST-696,Customer_5,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 66,4566.06,5,0.15,1018.26
+ORD-10473,2025-07-27,2025-08-02,CUST-212,Customer_145,Consumer,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 31,5601.42,9,0.0,-558.02
+ORD-10474,2024-08-04,2024-08-07,CUST-586,Customer_72,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 72,10705.43,7,0.15,1025.96
+ORD-10475,2025-10-25,2025-10-26,CUST-247,Customer_250,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 56,4398.22,3,0.05,-416.86
+ORD-10476,2025-09-30,2025-10-03,CUST-565,Customer_261,Corporate,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 71,12108.53,8,0.2,3858.26
+ORD-10477,2024-08-30,2024-09-04,CUST-520,Customer_280,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 47,2868.29,10,0.0,459.13
+ORD-10478,2025-12-08,2025-12-10,CUST-245,Customer_270,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 60,10602.75,2,0.2,1237.23
+ORD-10479,2024-11-15,2024-11-16,CUST-451,Customer_274,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 61,9496.88,2,0.2,2461.06
+ORD-10480,2024-02-06,2024-02-11,CUST-844,Customer_289,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 8,5039.56,6,0.1,151.91
+ORD-10481,2025-05-11,2025-05-13,CUST-229,Customer_259,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 109,9879.17,5,0.2,-866.56
+ORD-10482,2025-09-10,2025-09-13,CUST-705,Customer_78,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 58,4286.48,5,0.0,1001.51
+ORD-10483,2024-12-17,2024-12-19,CUST-248,Customer_305,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 108,3619.32,3,0.2,1042.03
+ORD-10484,2024-12-19,2024-12-20,CUST-757,Customer_136,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 7,9943.94,3,0.05,1590.94
+ORD-10485,2025-12-23,2025-12-30,CUST-585,Customer_135,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 68,4590.37,9,0.05,325.5
+ORD-10486,2024-02-12,2024-02-14,CUST-644,Customer_327,Corporate,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 109,5791.86,6,0.2,1200.62
+ORD-10487,2025-02-04,2025-02-12,CUST-891,Customer_346,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 31,4079.61,2,0.1,793.3
+ORD-10488,2024-01-09,2024-01-11,CUST-112,Customer_211,Consumer,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 68,14898.9,6,0.2,-1418.97
+ORD-10489,2025-09-26,2025-09-28,CUST-158,Customer_305,Home Office,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 115,10906.23,5,0.05,-923.55
+ORD-10490,2025-10-25,2025-10-28,CUST-213,Customer_95,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 38,1387.16,10,0.05,95.97
+ORD-10491,2025-11-14,2025-11-20,CUST-363,Customer_83,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Paper,Paper Product 36,13848.16,5,0.15,2928.88
+ORD-10492,2024-03-12,2024-03-20,CUST-305,Customer_313,Corporate,India,Patna,Bihar,East,Furniture,Tables,Tables Product 23,14939.78,5,0.1,-297.78
+ORD-10493,2025-03-28,2025-04-02,CUST-205,Customer_18,Consumer,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 10,11553.74,4,0.2,2189.46
+ORD-10494,2024-09-29,2024-10-02,CUST-816,Customer_169,Corporate,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 74,2317.93,1,0.0,461.44
+ORD-10495,2025-01-28,2025-02-05,CUST-224,Customer_291,Home Office,India,Patna,Bihar,East,Furniture,Tables,Tables Product 120,6118.3,2,0.2,9.98
+ORD-10496,2024-12-14,2024-12-16,CUST-961,Customer_236,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 83,6069.16,2,0.1,853.21
+ORD-10497,2024-04-19,2024-04-25,CUST-598,Customer_44,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 57,14515.94,4,0.1,3094.03
+ORD-10498,2024-03-05,2024-03-10,CUST-611,Customer_274,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 3,477.93,10,0.05,57.43
+ORD-10499,2025-10-31,2025-11-08,CUST-794,Customer_275,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 95,11837.9,1,0.15,-554.2
+ORD-10500,2025-09-25,2025-09-26,CUST-348,Customer_333,Consumer,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 2,2209.7,1,0.15,681.1
+ORD-10501,2024-04-18,2024-04-20,CUST-609,Customer_305,Home Office,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 29,6897.15,3,0.2,-491.21
+ORD-10502,2025-12-01,2025-12-04,CUST-429,Customer_110,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 76,12191.66,7,0.1,-556.41
+ORD-10503,2025-07-20,2025-07-23,CUST-549,Customer_125,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 6,4181.01,7,0.05,891.95
+ORD-10504,2024-03-23,2024-03-24,CUST-107,Customer_92,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 91,5704.35,3,0.0,1687.53
+ORD-10505,2025-06-19,2025-06-27,CUST-521,Customer_123,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 79,10416.14,4,0.05,1957.42
+ORD-10506,2024-01-05,2024-01-09,CUST-296,Customer_61,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 13,9219.54,2,0.1,521.22
+ORD-10507,2024-06-01,2024-06-09,CUST-609,Customer_91,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 86,9923.97,5,0.0,-127.29
+ORD-10508,2025-04-09,2025-04-10,CUST-206,Customer_27,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 23,4347.46,7,0.1,219.25
+ORD-10509,2024-11-29,2024-12-06,CUST-303,Customer_347,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 30,1829.37,4,0.15,304.99
+ORD-10510,2024-08-13,2024-08-15,CUST-582,Customer_300,Corporate,India,Patna,Bihar,East,Technology,Phones,Phones Product 7,3633.06,7,0.05,250.64
+ORD-10511,2024-07-17,2024-07-23,CUST-376,Customer_104,Corporate,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 17,6879.36,7,0.1,-265.67
+ORD-10512,2024-12-17,2024-12-21,CUST-402,Customer_310,Consumer,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 102,1755.53,8,0.15,154.84
+ORD-10513,2025-04-18,2025-04-23,CUST-114,Customer_220,Home Office,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 112,12868.91,8,0.05,2138.96
+ORD-10514,2024-01-06,2024-01-13,CUST-145,Customer_21,Corporate,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 94,8734.06,10,0.05,2717.95
+ORD-10515,2024-03-26,2024-03-27,CUST-809,Customer_209,Consumer,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 17,7241.11,2,0.15,889.78
+ORD-10516,2024-06-14,2024-06-22,CUST-978,Customer_293,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 75,14984.38,1,0.15,3012.85
+ORD-10517,2025-01-14,2025-01-22,CUST-820,Customer_325,Consumer,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 111,13125.57,7,0.05,3352.75
+ORD-10518,2025-12-15,2025-12-19,CUST-906,Customer_42,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 113,8010.71,5,0.15,1912.95
+ORD-10519,2025-04-21,2025-04-22,CUST-474,Customer_188,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 83,5523.46,1,0.0,399.51
+ORD-10520,2025-08-17,2025-08-21,CUST-871,Customer_116,Corporate,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 46,3655.63,2,0.15,847.45
+ORD-10521,2025-06-23,2025-06-25,CUST-581,Customer_273,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 106,1044.2,6,0.15,124.05
+ORD-10522,2025-04-13,2025-04-15,CUST-182,Customer_201,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 37,12018.57,2,0.05,3621.87
+ORD-10523,2024-07-28,2024-07-29,CUST-400,Customer_214,Home Office,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 70,1769.17,3,0.15,-57.1
+ORD-10524,2024-01-23,2024-01-27,CUST-954,Customer_267,Home Office,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 43,6713.51,1,0.1,-100.18
+ORD-10525,2025-06-26,2025-07-04,CUST-568,Customer_156,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 17,11823.68,8,0.2,2360.42
+ORD-10526,2024-10-18,2024-10-26,CUST-270,Customer_317,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 92,7315.22,5,0.0,-243.21
+ORD-10527,2024-02-12,2024-02-18,CUST-688,Customer_65,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 34,10423.6,3,0.05,73.56
+ORD-10528,2025-04-04,2025-04-07,CUST-646,Customer_155,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 118,10636.3,6,0.1,-355.52
+ORD-10529,2025-07-13,2025-07-19,CUST-762,Customer_152,Corporate,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 115,14222.06,6,0.05,-1394.72
+ORD-10530,2025-05-05,2025-05-06,CUST-242,Customer_348,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 15,13612.52,8,0.1,2860.21
+ORD-10531,2024-02-26,2024-03-01,CUST-697,Customer_270,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 101,12629.07,8,0.1,-737.33
+ORD-10532,2025-02-07,2025-02-11,CUST-602,Customer_163,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 78,8122.34,8,0.0,2754.51
+ORD-10533,2024-01-13,2024-01-18,CUST-453,Customer_180,Corporate,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 58,10767.86,7,0.1,794.14
+ORD-10534,2025-03-10,2025-03-17,CUST-242,Customer_301,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 12,11148.76,7,0.15,333.18
+ORD-10535,2025-08-27,2025-09-03,CUST-190,Customer_4,Corporate,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 82,14826.9,9,0.1,-1041.56
+ORD-10536,2025-01-25,2025-01-30,CUST-667,Customer_252,Consumer,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 106,6985.59,10,0.05,-72.19
+ORD-10537,2024-06-06,2024-06-11,CUST-407,Customer_328,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 61,11123.85,4,0.0,2848.25
+ORD-10538,2024-10-10,2024-10-18,CUST-168,Customer_307,Home Office,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 47,7429.11,4,0.0,-343.9
+ORD-10539,2025-08-12,2025-08-13,CUST-965,Customer_133,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 75,10320.1,2,0.1,1348.18
+ORD-10540,2024-10-06,2024-10-12,CUST-529,Customer_326,Corporate,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 7,13186.93,3,0.1,-349.6
+ORD-10541,2024-07-06,2024-07-08,CUST-713,Customer_86,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 42,14051.12,9,0.05,3441.11
+ORD-10542,2024-12-26,2024-12-29,CUST-113,Customer_71,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 37,10499.72,6,0.0,1475.1
+ORD-10543,2025-05-30,2025-06-03,CUST-951,Customer_97,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 79,13821.52,3,0.0,-27.03
+ORD-10544,2024-11-15,2024-11-21,CUST-242,Customer_227,Home Office,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 67,1836.83,3,0.0,212.67
+ORD-10545,2025-12-11,2025-12-14,CUST-804,Customer_117,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 17,528.52,2,0.05,-22.24
+ORD-10546,2025-05-10,2025-05-17,CUST-143,Customer_101,Consumer,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 5,10393.19,2,0.0,-951.36
+ORD-10547,2024-05-06,2024-05-10,CUST-701,Customer_103,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 86,744.89,5,0.0,178.44
+ORD-10548,2024-06-13,2024-06-17,CUST-617,Customer_292,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 13,12703.34,5,0.2,718.07
+ORD-10549,2024-04-11,2024-04-15,CUST-616,Customer_244,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 90,14467.53,3,0.2,-1418.57
+ORD-10550,2025-06-10,2025-06-14,CUST-517,Customer_58,Corporate,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 16,2794.64,6,0.15,253.87
+ORD-10551,2024-02-11,2024-02-13,CUST-435,Customer_253,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 50,7487.66,6,0.1,1128.46
+ORD-10552,2024-10-24,2024-10-31,CUST-293,Customer_36,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 87,4748.9,8,0.05,708.83
+ORD-10553,2025-11-05,2025-11-07,CUST-222,Customer_74,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 52,7425.56,2,0.15,721.22
+ORD-10554,2025-02-17,2025-02-19,CUST-338,Customer_218,Home Office,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 64,14630.59,6,0.05,2454.02
+ORD-10555,2025-06-07,2025-06-12,CUST-250,Customer_233,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 16,5405.85,10,0.15,1861.7
+ORD-10556,2024-02-24,2024-02-26,CUST-610,Customer_348,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 23,9462.73,3,0.0,-522.14
+ORD-10557,2025-06-16,2025-06-24,CUST-911,Customer_239,Consumer,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 38,9367.3,2,0.0,1849.91
+ORD-10558,2024-02-02,2024-02-09,CUST-221,Customer_197,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 41,8182.33,9,0.2,-753.17
+ORD-10559,2024-06-17,2024-06-25,CUST-541,Customer_69,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 92,589.61,9,0.1,175.77
+ORD-10560,2025-05-02,2025-05-05,CUST-618,Customer_29,Corporate,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 34,10157.87,9,0.2,1599.81
+ORD-10561,2025-08-27,2025-08-28,CUST-231,Customer_188,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 104,5356.18,5,0.1,-387.57
+ORD-10562,2025-11-08,2025-11-12,CUST-353,Customer_121,Home Office,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 40,6479.41,6,0.15,376.27
+ORD-10563,2025-04-16,2025-04-23,CUST-681,Customer_264,Corporate,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 35,5130.15,1,0.2,239.85
+ORD-10564,2025-08-09,2025-08-11,CUST-927,Customer_251,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 89,14787.9,7,0.2,1118.49
+ORD-10565,2025-01-07,2025-01-14,CUST-306,Customer_255,Home Office,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 109,12190.71,6,0.05,2153.76
+ORD-10566,2025-10-01,2025-10-03,CUST-834,Customer_297,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 76,808.22,10,0.15,211.81
+ORD-10567,2024-03-19,2024-03-24,CUST-616,Customer_154,Corporate,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 85,12037.67,8,0.15,-67.62
+ORD-10568,2025-07-14,2025-07-17,CUST-119,Customer_322,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 67,3843.85,9,0.15,777.23
+ORD-10569,2025-06-29,2025-07-06,CUST-679,Customer_321,Consumer,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 67,14435.54,8,0.1,4644.25
+ORD-10570,2024-03-06,2024-03-10,CUST-966,Customer_212,Corporate,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 106,3681.57,5,0.15,311.52
+ORD-10571,2024-07-15,2024-07-16,CUST-351,Customer_159,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 63,9058.36,7,0.05,-442.94
+ORD-10572,2024-10-11,2024-10-14,CUST-759,Customer_22,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 63,3109.66,5,0.05,-270.19
+ORD-10573,2025-11-18,2025-11-20,CUST-506,Customer_72,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 15,9063.84,2,0.15,2751.31
+ORD-10574,2025-08-21,2025-08-28,CUST-925,Customer_121,Corporate,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 28,3647.35,2,0.1,175.72
+ORD-10575,2025-08-26,2025-08-27,CUST-602,Customer_274,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 90,14551.86,8,0.15,210.09
+ORD-10576,2024-05-28,2024-06-03,CUST-586,Customer_189,Corporate,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 3,7175.33,4,0.1,2122.07
+ORD-10577,2025-12-18,2025-12-24,CUST-931,Customer_63,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 111,3671.17,9,0.15,143.8
+ORD-10578,2024-08-29,2024-09-03,CUST-315,Customer_83,Corporate,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 81,13655.86,7,0.1,483.41
+ORD-10579,2024-12-06,2024-12-13,CUST-997,Customer_52,Consumer,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 90,13010.02,8,0.15,3013.43
+ORD-10580,2024-01-29,2024-01-30,CUST-756,Customer_329,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 81,9071.53,9,0.1,943.15
+ORD-10581,2024-04-23,2024-04-26,CUST-355,Customer_265,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 99,3081.12,5,0.1,490.25
+ORD-10582,2025-08-30,2025-09-05,CUST-918,Customer_145,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 11,7227.65,3,0.1,-158.53
+ORD-10583,2024-01-24,2024-01-28,CUST-191,Customer_237,Consumer,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 34,13158.21,10,0.05,-1193.05
+ORD-10584,2025-01-11,2025-01-14,CUST-680,Customer_61,Consumer,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 92,6490.66,5,0.05,-388.94
+ORD-10585,2024-09-29,2024-10-04,CUST-864,Customer_254,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 17,1865.83,4,0.05,607.74
+ORD-10586,2025-02-22,2025-02-25,CUST-129,Customer_149,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 31,14928.59,5,0.05,1317.43
+ORD-10587,2024-05-16,2024-05-22,CUST-809,Customer_204,Home Office,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 28,10295.58,8,0.0,-981.74
+ORD-10588,2024-12-06,2024-12-10,CUST-582,Customer_182,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 86,3917.76,2,0.2,-288.2
+ORD-10589,2024-05-15,2024-05-16,CUST-694,Customer_92,Corporate,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 22,9332.9,5,0.15,1885.88
+ORD-10590,2024-04-29,2024-05-05,CUST-145,Customer_66,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 112,1435.75,9,0.15,-51.96
+ORD-10591,2024-09-27,2024-10-03,CUST-546,Customer_85,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 95,13551.61,5,0.2,3703.86
+ORD-10592,2024-02-25,2024-02-29,CUST-287,Customer_19,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 34,9586.12,8,0.0,-143.66
+ORD-10593,2025-12-27,2026-01-04,CUST-568,Customer_253,Consumer,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 109,14928.51,8,0.0,1473.2
+ORD-10594,2025-06-04,2025-06-09,CUST-676,Customer_340,Home Office,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 28,3135.63,5,0.05,864.58
+ORD-10595,2024-01-27,2024-02-01,CUST-797,Customer_349,Consumer,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 51,3767.75,8,0.0,1127.75
+ORD-10596,2024-10-02,2024-10-03,CUST-437,Customer_23,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 80,530.23,8,0.15,55.32
+ORD-10597,2024-02-19,2024-02-24,CUST-430,Customer_29,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 10,13612.49,10,0.05,-66.5
+ORD-10598,2024-08-01,2024-08-04,CUST-497,Customer_207,Corporate,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 83,2752.36,7,0.0,-249.83
+ORD-10599,2025-11-12,2025-11-14,CUST-952,Customer_189,Home Office,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 26,12036.4,5,0.2,-492.54
+ORD-10600,2025-03-08,2025-03-14,CUST-728,Customer_96,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 81,4100.34,10,0.15,-243.56
+ORD-10601,2025-12-31,2026-01-03,CUST-607,Customer_270,Home Office,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 83,5192.0,8,0.05,993.88
+ORD-10602,2024-05-10,2024-05-15,CUST-961,Customer_128,Home Office,India,Patna,Bihar,East,Furniture,Tables,Tables Product 55,1279.83,8,0.1,-42.4
+ORD-10603,2025-02-26,2025-02-28,CUST-575,Customer_339,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 73,13767.8,9,0.0,1786.97
+ORD-10604,2025-11-08,2025-11-16,CUST-283,Customer_94,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 6,1318.37,9,0.0,-64.24
+ORD-10605,2024-09-28,2024-10-04,CUST-992,Customer_96,Consumer,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 24,4777.8,8,0.15,863.42
+ORD-10606,2024-01-14,2024-01-17,CUST-771,Customer_245,Corporate,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 89,6563.6,1,0.0,510.12
+ORD-10607,2025-12-07,2025-12-14,CUST-923,Customer_155,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 17,12215.67,10,0.1,2575.04
+ORD-10608,2025-10-26,2025-10-29,CUST-765,Customer_124,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 108,12257.93,4,0.0,-71.67
+ORD-10609,2024-06-05,2024-06-13,CUST-596,Customer_242,Consumer,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 111,2307.67,7,0.0,-109.83
+ORD-10610,2024-04-15,2024-04-22,CUST-525,Customer_254,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 75,8584.51,7,0.0,431.22
+ORD-10611,2025-05-14,2025-05-18,CUST-831,Customer_32,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 3,7342.9,10,0.2,2356.16
+ORD-10612,2025-09-29,2025-10-05,CUST-559,Customer_224,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 21,4090.95,7,0.15,-193.82
+ORD-10613,2025-12-02,2025-12-08,CUST-716,Customer_337,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 17,6627.85,9,0.05,1089.93
+ORD-10614,2024-06-14,2024-06-18,CUST-389,Customer_45,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 62,9822.25,6,0.15,2552.7
+ORD-10615,2025-05-20,2025-05-25,CUST-340,Customer_108,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 7,9125.66,2,0.15,2960.13
+ORD-10616,2024-03-06,2024-03-12,CUST-540,Customer_59,Home Office,India,Patna,Bihar,East,Furniture,Tables,Tables Product 30,10186.23,3,0.2,-872.08
+ORD-10617,2025-07-24,2025-07-29,CUST-254,Customer_264,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 86,14905.58,6,0.0,3674.86
+ORD-10618,2025-09-16,2025-09-18,CUST-943,Customer_288,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 65,14443.44,2,0.0,3636.04
+ORD-10619,2025-12-26,2026-01-03,CUST-880,Customer_260,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 94,13075.96,6,0.05,2978.14
+ORD-10620,2025-03-25,2025-04-01,CUST-887,Customer_4,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 107,5085.65,3,0.0,1433.48
+ORD-10621,2025-02-28,2025-03-06,CUST-744,Customer_341,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 20,2651.8,5,0.1,588.28
+ORD-10622,2025-06-12,2025-06-18,CUST-130,Customer_227,Consumer,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 99,6259.8,7,0.15,2055.27
+ORD-10623,2024-02-07,2024-02-10,CUST-688,Customer_30,Home Office,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 92,4790.59,3,0.15,-346.55
+ORD-10624,2024-01-09,2024-01-14,CUST-640,Customer_313,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 90,10541.78,5,0.1,3259.03
+ORD-10625,2025-12-15,2025-12-21,CUST-931,Customer_333,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 100,13324.94,10,0.2,2577.27
+ORD-10626,2025-07-07,2025-07-12,CUST-318,Customer_48,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 71,8107.76,7,0.05,1088.15
+ORD-10627,2024-11-07,2024-11-14,CUST-617,Customer_57,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Binders,Binders Product 8,448.98,9,0.2,7.37
+ORD-10628,2025-08-09,2025-08-10,CUST-564,Customer_174,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 104,5381.65,1,0.0,548.56
+ORD-10629,2025-06-16,2025-06-20,CUST-207,Customer_168,Home Office,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 75,10037.14,10,0.05,2222.8
+ORD-10630,2024-03-04,2024-03-11,CUST-233,Customer_244,Consumer,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 58,2283.64,7,0.15,-144.15
+ORD-10631,2024-09-27,2024-10-05,CUST-751,Customer_217,Corporate,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 89,6101.03,9,0.2,1528.13
+ORD-10632,2025-12-22,2025-12-24,CUST-811,Customer_109,Corporate,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 61,7636.21,8,0.15,-319.02
+ORD-10633,2024-04-22,2024-04-24,CUST-478,Customer_293,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 6,13833.29,2,0.2,3922.33
+ORD-10634,2024-05-26,2024-05-29,CUST-902,Customer_302,Corporate,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 7,14866.2,5,0.1,1764.12
+ORD-10635,2024-12-23,2024-12-25,CUST-991,Customer_23,Corporate,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 62,12304.96,8,0.0,-553.14
+ORD-10636,2025-05-31,2025-06-08,CUST-879,Customer_231,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 58,7180.89,10,0.05,1744.08
+ORD-10637,2025-02-08,2025-02-14,CUST-653,Customer_24,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 114,10001.08,7,0.15,47.71
+ORD-10638,2025-12-25,2025-12-30,CUST-674,Customer_331,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 83,13002.71,1,0.2,2386.64
+ORD-10639,2025-05-02,2025-05-03,CUST-223,Customer_338,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 24,8695.15,1,0.2,1172.01
+ORD-10640,2025-06-30,2025-07-06,CUST-511,Customer_302,Consumer,India,Patna,Bihar,East,Technology,Phones,Phones Product 63,12462.39,10,0.15,-771.53
+ORD-10641,2024-04-03,2024-04-05,CUST-201,Customer_278,Consumer,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 37,6282.55,9,0.1,451.75
+ORD-10642,2024-11-29,2024-12-02,CUST-127,Customer_30,Corporate,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 50,2397.99,7,0.05,-176.23
+ORD-10643,2024-05-03,2024-05-04,CUST-307,Customer_123,Home Office,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 76,13405.86,5,0.15,4339.61
+ORD-10644,2025-04-20,2025-04-27,CUST-167,Customer_248,Consumer,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 53,5837.23,2,0.1,-424.46
+ORD-10645,2025-10-29,2025-11-01,CUST-411,Customer_291,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 58,14455.77,2,0.05,3517.67
+ORD-10646,2025-03-09,2025-03-17,CUST-142,Customer_1,Corporate,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 107,8152.55,3,0.05,1156.77
+ORD-10647,2025-11-27,2025-12-04,CUST-459,Customer_324,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 75,14009.25,8,0.1,2368.13
+ORD-10648,2025-12-16,2025-12-18,CUST-950,Customer_72,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 72,8057.93,2,0.1,-480.48
+ORD-10649,2025-12-25,2026-01-02,CUST-379,Customer_126,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 42,7621.82,6,0.1,1416.34
+ORD-10650,2024-01-05,2024-01-06,CUST-788,Customer_89,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 72,4994.01,3,0.0,868.73
+ORD-10651,2025-11-18,2025-11-26,CUST-788,Customer_64,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 105,11830.85,2,0.2,-1018.32
+ORD-10652,2024-07-16,2024-07-24,CUST-109,Customer_114,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 3,12603.27,1,0.0,1363.82
+ORD-10653,2025-05-20,2025-05-26,CUST-137,Customer_144,Corporate,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 116,12262.58,5,0.05,66.42
+ORD-10654,2024-06-23,2024-06-27,CUST-775,Customer_290,Home Office,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 88,6001.68,5,0.2,751.09
+ORD-10655,2024-08-21,2024-08-26,CUST-296,Customer_348,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 89,11215.0,3,0.1,3589.96
+ORD-10656,2025-02-20,2025-02-25,CUST-224,Customer_349,Home Office,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 60,9650.4,1,0.1,913.38
+ORD-10657,2025-03-06,2025-03-14,CUST-423,Customer_3,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 25,13268.66,4,0.0,332.64
+ORD-10658,2024-09-12,2024-09-16,CUST-268,Customer_169,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 9,14854.94,4,0.15,4916.97
+ORD-10659,2024-09-10,2024-09-12,CUST-584,Customer_123,Corporate,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 107,12140.08,10,0.1,3377.72
+ORD-10660,2024-04-07,2024-04-15,CUST-692,Customer_64,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 8,14158.86,10,0.2,1378.2
+ORD-10661,2025-03-28,2025-03-29,CUST-408,Customer_313,Home Office,India,Patna,Bihar,East,Furniture,Storage,Storage Product 56,1068.92,3,0.0,335.22
+ORD-10662,2025-09-24,2025-10-01,CUST-338,Customer_307,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 80,8432.94,5,0.15,681.02
+ORD-10663,2025-10-28,2025-10-29,CUST-564,Customer_265,Corporate,India,Patna,Bihar,East,Furniture,Tables,Tables Product 76,11947.95,10,0.2,-650.27
+ORD-10664,2024-07-17,2024-07-20,CUST-752,Customer_261,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 46,8968.11,2,0.2,2289.0
+ORD-10665,2024-03-02,2024-03-05,CUST-419,Customer_300,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 66,6724.9,4,0.05,1739.47
+ORD-10666,2024-12-17,2024-12-22,CUST-477,Customer_5,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 76,11654.89,3,0.15,453.42
+ORD-10667,2024-07-19,2024-07-23,CUST-755,Customer_104,Consumer,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 44,12305.84,9,0.0,1106.63
+ORD-10668,2025-08-02,2025-08-08,CUST-730,Customer_154,Corporate,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 43,14730.66,10,0.1,4174.73
+ORD-10669,2025-04-22,2025-04-26,CUST-344,Customer_247,Home Office,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 99,7489.37,1,0.05,1587.37
+ORD-10670,2025-01-01,2025-01-02,CUST-668,Customer_59,Consumer,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 38,2845.24,1,0.1,-271.86
+ORD-10671,2024-07-22,2024-07-26,CUST-390,Customer_90,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 114,13699.36,6,0.0,4642.56
+ORD-10672,2024-09-25,2024-09-27,CUST-121,Customer_347,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 49,3764.87,4,0.0,-78.18
+ORD-10673,2025-06-23,2025-06-30,CUST-999,Customer_34,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 19,6897.43,6,0.1,1361.61
+ORD-10674,2025-10-13,2025-10-17,CUST-147,Customer_316,Home Office,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 25,5735.11,6,0.1,973.81
+ORD-10675,2025-08-21,2025-08-29,CUST-314,Customer_42,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 102,893.56,5,0.05,253.03
+ORD-10676,2025-04-20,2025-04-23,CUST-429,Customer_192,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 89,11294.49,9,0.1,1404.63
+ORD-10677,2024-07-26,2024-08-03,CUST-983,Customer_121,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 28,8759.68,10,0.0,-59.22
+ORD-10678,2024-05-17,2024-05-19,CUST-402,Customer_228,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 46,2442.42,6,0.1,360.86
+ORD-10679,2025-02-22,2025-02-28,CUST-923,Customer_255,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 35,9354.77,7,0.15,1032.75
+ORD-10680,2024-10-28,2024-10-30,CUST-904,Customer_142,Consumer,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 13,3583.48,2,0.1,1095.34
+ORD-10681,2024-09-13,2024-09-18,CUST-863,Customer_350,Corporate,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 25,8235.79,6,0.05,1678.44
+ORD-10682,2025-08-16,2025-08-17,CUST-583,Customer_335,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 98,4299.49,6,0.15,1399.99
+ORD-10683,2025-08-24,2025-09-01,CUST-839,Customer_237,Corporate,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 102,10877.7,4,0.15,56.3
+ORD-10684,2025-07-25,2025-07-26,CUST-483,Customer_72,Home Office,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 112,11574.95,7,0.05,1127.47
+ORD-10685,2025-03-11,2025-03-18,CUST-881,Customer_276,Corporate,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 42,7547.02,6,0.1,11.1
+ORD-10686,2025-09-09,2025-09-16,CUST-490,Customer_105,Corporate,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 9,14660.93,6,0.2,2689.22
+ORD-10687,2024-04-16,2024-04-19,CUST-132,Customer_309,Corporate,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 4,4999.74,8,0.1,-290.19
+ORD-10688,2024-03-12,2024-03-20,CUST-158,Customer_189,Home Office,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 2,4328.88,4,0.1,851.95
+ORD-10689,2025-05-04,2025-05-06,CUST-498,Customer_106,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 112,2439.83,2,0.05,345.0
+ORD-10690,2024-11-13,2024-11-17,CUST-614,Customer_235,Corporate,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 26,10005.41,3,0.2,1588.77
+ORD-10691,2025-08-05,2025-08-13,CUST-571,Customer_237,Home Office,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 6,12386.28,10,0.05,1692.4
+ORD-10692,2024-06-28,2024-07-05,CUST-355,Customer_92,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 94,5267.05,5,0.15,926.28
+ORD-10693,2024-02-14,2024-02-18,CUST-991,Customer_81,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 113,2833.32,10,0.0,218.44
+ORD-10694,2025-07-20,2025-07-22,CUST-477,Customer_40,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 65,10863.9,4,0.15,924.25
+ORD-10695,2024-03-15,2024-03-23,CUST-490,Customer_176,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 52,3866.22,9,0.0,417.46
+ORD-10696,2025-04-20,2025-04-28,CUST-572,Customer_35,Consumer,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 71,3834.03,3,0.1,773.07
+ORD-10697,2025-09-13,2025-09-15,CUST-281,Customer_151,Consumer,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 69,12324.36,3,0.05,3417.83
+ORD-10698,2024-07-01,2024-07-05,CUST-831,Customer_18,Home Office,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 69,11477.48,5,0.05,1128.19
+ORD-10699,2024-11-11,2024-11-19,CUST-153,Customer_307,Consumer,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 7,12563.87,9,0.0,952.07
+ORD-10700,2024-01-29,2024-01-30,CUST-445,Customer_99,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 86,13640.47,4,0.0,-1265.6
+ORD-10701,2024-04-20,2024-04-26,CUST-430,Customer_288,Home Office,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 25,2601.46,3,0.0,226.47
+ORD-10702,2024-01-16,2024-01-23,CUST-769,Customer_162,Consumer,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 50,3562.88,2,0.1,162.17
+ORD-10703,2024-03-09,2024-03-13,CUST-520,Customer_155,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 64,9903.63,5,0.2,654.05
+ORD-10704,2025-10-12,2025-10-18,CUST-971,Customer_342,Corporate,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 9,9038.02,7,0.05,446.67
+ORD-10705,2025-12-22,2025-12-23,CUST-338,Customer_11,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 98,6788.78,9,0.05,859.05
+ORD-10706,2024-05-20,2024-05-26,CUST-610,Customer_152,Consumer,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 20,6484.62,4,0.2,-416.8
+ORD-10707,2024-12-02,2024-12-05,CUST-384,Customer_163,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 101,3647.15,10,0.15,848.56
+ORD-10708,2024-07-29,2024-07-30,CUST-780,Customer_128,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 90,11283.21,4,0.1,611.86
+ORD-10709,2024-03-12,2024-03-16,CUST-153,Customer_325,Consumer,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 27,2834.83,1,0.0,826.18
+ORD-10710,2025-03-12,2025-03-20,CUST-418,Customer_85,Home Office,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 26,8277.82,4,0.05,1062.38
+ORD-10711,2025-10-12,2025-10-16,CUST-378,Customer_247,Consumer,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 47,3809.64,5,0.2,387.52
+ORD-10712,2024-06-08,2024-06-16,CUST-120,Customer_196,Corporate,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 110,6676.5,9,0.2,1540.39
+ORD-10713,2024-11-09,2024-11-17,CUST-390,Customer_193,Home Office,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 78,2376.7,3,0.1,169.23
+ORD-10714,2024-01-05,2024-01-06,CUST-982,Customer_257,Home Office,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 93,10751.46,4,0.05,3357.24
+ORD-10715,2025-10-18,2025-10-20,CUST-518,Customer_20,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Tables,Tables Product 50,14110.25,6,0.15,1697.43
+ORD-10716,2025-10-12,2025-10-18,CUST-813,Customer_30,Home Office,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 50,11591.93,6,0.2,2539.88
+ORD-10717,2025-10-22,2025-10-25,CUST-367,Customer_310,Corporate,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 88,614.16,6,0.0,131.35
+ORD-10718,2024-04-04,2024-04-11,CUST-507,Customer_301,Consumer,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 67,8717.29,3,0.0,-413.82
+ORD-10719,2025-11-05,2025-11-12,CUST-700,Customer_158,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 53,3867.78,5,0.2,1297.48
+ORD-10720,2024-08-02,2024-08-09,CUST-815,Customer_158,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 22,11672.7,6,0.05,245.82
+ORD-10721,2024-10-22,2024-10-29,CUST-274,Customer_91,Corporate,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 24,11628.78,7,0.2,1018.44
+ORD-10722,2024-08-05,2024-08-08,CUST-305,Customer_31,Home Office,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 24,7588.94,2,0.15,1177.74
+ORD-10723,2024-06-19,2024-06-21,CUST-400,Customer_44,Corporate,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 16,9439.88,10,0.0,2744.77
+ORD-10724,2024-04-13,2024-04-14,CUST-162,Customer_137,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 86,8826.13,8,0.15,1789.6
+ORD-10725,2024-09-29,2024-10-07,CUST-584,Customer_173,Home Office,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 55,11897.62,7,0.2,1594.68
+ORD-10726,2025-01-22,2025-01-23,CUST-464,Customer_170,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 1,14991.73,4,0.1,2987.63
+ORD-10727,2025-12-17,2025-12-21,CUST-477,Customer_232,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 88,482.64,2,0.2,12.43
+ORD-10728,2024-02-16,2024-02-22,CUST-794,Customer_228,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 78,146.62,6,0.0,27.15
+ORD-10729,2025-05-02,2025-05-04,CUST-851,Customer_198,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 78,11930.01,6,0.15,3848.48
+ORD-10730,2024-03-30,2024-04-04,CUST-952,Customer_345,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 112,11794.44,9,0.0,-500.82
+ORD-10731,2024-06-23,2024-06-25,CUST-208,Customer_223,Home Office,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 4,7284.31,9,0.05,69.28
+ORD-10732,2025-11-17,2025-11-19,CUST-781,Customer_70,Home Office,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 82,3383.6,5,0.15,1110.42
+ORD-10733,2024-12-17,2024-12-24,CUST-834,Customer_196,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Paper,Paper Product 83,13091.92,10,0.2,-928.21
+ORD-10734,2025-08-29,2025-09-02,CUST-862,Customer_60,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 48,1823.78,2,0.0,-109.22
+ORD-10735,2024-07-13,2024-07-20,CUST-533,Customer_164,Corporate,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 103,11080.08,5,0.0,1834.05
+ORD-10736,2024-10-30,2024-11-03,CUST-611,Customer_349,Corporate,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 19,236.91,8,0.1,-8.26
+ORD-10737,2025-05-29,2025-05-31,CUST-380,Customer_294,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 81,12752.0,1,0.2,561.89
+ORD-10738,2024-08-03,2024-08-07,CUST-817,Customer_27,Consumer,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 110,14500.79,1,0.1,-453.64
+ORD-10739,2024-12-11,2024-12-18,CUST-794,Customer_243,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 97,13694.41,3,0.0,2007.25
+ORD-10740,2025-07-15,2025-07-22,CUST-199,Customer_68,Corporate,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 97,10928.64,5,0.05,2355.11
+ORD-10741,2024-10-25,2024-10-28,CUST-314,Customer_112,Home Office,India,Patna,Bihar,East,Furniture,Storage,Storage Product 26,2539.05,3,0.15,541.27
+ORD-10742,2025-03-13,2025-03-16,CUST-157,Customer_50,Corporate,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 61,1619.02,3,0.15,530.52
+ORD-10743,2025-10-04,2025-10-11,CUST-350,Customer_18,Consumer,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 31,9786.46,10,0.15,3291.94
+ORD-10744,2025-11-17,2025-11-19,CUST-896,Customer_238,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 49,8982.72,3,0.15,2237.89
+ORD-10745,2025-11-15,2025-11-19,CUST-123,Customer_301,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 74,1888.01,2,0.0,226.84
+ORD-10746,2025-10-22,2025-10-29,CUST-405,Customer_293,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 13,1508.84,10,0.05,109.82
+ORD-10747,2025-07-03,2025-07-11,CUST-165,Customer_266,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 69,2854.86,1,0.15,428.88
+ORD-10748,2025-04-02,2025-04-08,CUST-225,Customer_21,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 74,2791.9,10,0.05,-272.5
+ORD-10749,2025-06-02,2025-06-07,CUST-472,Customer_279,Consumer,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 55,3925.73,1,0.0,1338.55
+ORD-10750,2025-03-31,2025-04-03,CUST-690,Customer_252,Home Office,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Product 41,14198.6,9,0.1,2791.74
+ORD-10751,2024-05-25,2024-05-30,CUST-976,Customer_111,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 78,9972.99,1,0.05,-832.44
+ORD-10752,2024-09-23,2024-09-30,CUST-765,Customer_84,Corporate,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 59,10963.66,7,0.0,1616.39
+ORD-10753,2025-10-06,2025-10-11,CUST-748,Customer_331,Consumer,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 92,14108.97,3,0.2,-117.2
+ORD-10754,2025-09-10,2025-09-14,CUST-179,Customer_139,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 69,4813.77,7,0.15,-425.25
+ORD-10755,2024-05-29,2024-06-02,CUST-380,Customer_6,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 49,9638.64,6,0.1,2410.93
+ORD-10756,2025-05-16,2025-05-18,CUST-641,Customer_179,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 74,2718.4,5,0.2,732.89
+ORD-10757,2025-02-02,2025-02-05,CUST-453,Customer_348,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Binders,Binders Product 71,13458.9,3,0.1,4386.65
+ORD-10758,2024-05-26,2024-06-02,CUST-681,Customer_137,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 118,3960.01,9,0.05,775.78
+ORD-10759,2024-12-28,2025-01-05,CUST-614,Customer_147,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 55,6331.83,8,0.05,617.56
+ORD-10760,2025-10-11,2025-10-13,CUST-178,Customer_123,Consumer,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 22,14217.07,7,0.1,3985.91
+ORD-10761,2025-03-10,2025-03-13,CUST-591,Customer_255,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 88,8356.98,8,0.0,2782.66
+ORD-10762,2024-12-19,2024-12-23,CUST-856,Customer_339,Home Office,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 88,2933.74,1,0.15,634.18
+ORD-10763,2025-01-10,2025-01-13,CUST-626,Customer_181,Consumer,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 55,13959.76,9,0.05,-297.81
+ORD-10764,2024-04-30,2024-05-05,CUST-406,Customer_248,Corporate,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 34,14548.95,6,0.05,3990.44
+ORD-10765,2025-10-20,2025-10-21,CUST-574,Customer_317,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 8,8575.74,4,0.1,2727.93
+ORD-10766,2024-07-09,2024-07-16,CUST-463,Customer_5,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 56,4995.42,6,0.0,-487.96
+ORD-10767,2025-05-14,2025-05-15,CUST-259,Customer_337,Corporate,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 29,7763.35,3,0.15,-343.69
+ORD-10768,2024-04-21,2024-04-29,CUST-772,Customer_225,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 18,5530.99,3,0.2,1466.79
+ORD-10769,2024-02-11,2024-02-14,CUST-504,Customer_216,Home Office,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 43,13265.29,4,0.0,-194.93
+ORD-10770,2025-07-17,2025-07-25,CUST-919,Customer_350,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 17,14230.8,5,0.0,1273.56
+ORD-10771,2024-04-20,2024-04-21,CUST-229,Customer_80,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 65,13861.06,7,0.05,-701.65
+ORD-10772,2025-03-20,2025-03-28,CUST-396,Customer_145,Corporate,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 11,12464.55,7,0.2,2889.83
+ORD-10773,2024-04-27,2024-05-02,CUST-817,Customer_127,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 106,10965.8,3,0.05,290.73
+ORD-10774,2024-07-12,2024-07-15,CUST-334,Customer_62,Consumer,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 52,11762.48,2,0.2,2058.38
+ORD-10775,2024-02-22,2024-02-29,CUST-517,Customer_269,Corporate,India,Patna,Bihar,East,Technology,Phones,Phones Product 90,6451.91,10,0.05,-381.17
+ORD-10776,2024-11-07,2024-11-09,CUST-375,Customer_187,Corporate,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 45,7240.01,9,0.15,1373.74
+ORD-10777,2024-11-25,2024-11-29,CUST-392,Customer_242,Corporate,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 117,2808.1,1,0.0,553.74
+ORD-10778,2024-04-09,2024-04-10,CUST-799,Customer_283,Consumer,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 43,14230.09,6,0.1,525.95
+ORD-10779,2024-08-03,2024-08-10,CUST-189,Customer_55,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 81,7980.04,6,0.05,1537.05
+ORD-10780,2024-03-17,2024-03-23,CUST-408,Customer_243,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 69,12279.4,4,0.15,3886.13
+ORD-10781,2025-01-09,2025-01-17,CUST-744,Customer_61,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 9,6331.37,5,0.2,2145.11
+ORD-10782,2024-05-12,2024-05-17,CUST-146,Customer_290,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 102,11884.19,3,0.2,277.7
+ORD-10783,2025-06-05,2025-06-12,CUST-675,Customer_200,Corporate,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 78,8033.8,9,0.0,-205.0
+ORD-10784,2025-06-09,2025-06-17,CUST-615,Customer_269,Corporate,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 39,2484.05,4,0.2,530.41
+ORD-10785,2024-08-31,2024-09-05,CUST-140,Customer_328,Consumer,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 114,8327.05,3,0.05,-661.79
+ORD-10786,2024-01-02,2024-01-08,CUST-747,Customer_310,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 42,9671.96,4,0.05,1359.57
+ORD-10787,2024-02-28,2024-02-29,CUST-943,Customer_183,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 94,6184.31,10,0.1,285.01
+ORD-10788,2025-12-05,2025-12-12,CUST-769,Customer_132,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 82,8107.09,10,0.0,1825.48
+ORD-10789,2024-08-25,2024-09-01,CUST-477,Customer_76,Corporate,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 12,4105.02,10,0.15,-122.99
+ORD-10790,2024-07-03,2024-07-08,CUST-121,Customer_159,Consumer,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 114,12252.41,3,0.05,1915.62
+ORD-10791,2025-04-10,2025-04-17,CUST-202,Customer_270,Consumer,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 94,2898.94,3,0.0,266.35
+ORD-10792,2024-03-26,2024-03-31,CUST-246,Customer_322,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 2,408.67,1,0.0,-16.56
+ORD-10793,2025-07-30,2025-08-07,CUST-935,Customer_84,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 43,12292.0,2,0.05,-459.06
+ORD-10794,2024-02-15,2024-02-17,CUST-657,Customer_152,Consumer,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 66,8198.54,5,0.2,-365.79
+ORD-10795,2025-11-02,2025-11-07,CUST-331,Customer_197,Home Office,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 114,457.61,7,0.15,-15.41
+ORD-10796,2024-12-07,2024-12-09,CUST-469,Customer_44,Consumer,India,Patna,Bihar,East,Technology,Phones,Phones Product 78,3445.38,5,0.1,-226.26
+ORD-10797,2025-11-14,2025-11-19,CUST-739,Customer_147,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 113,5089.18,3,0.15,-164.89
+ORD-10798,2024-06-01,2024-06-04,CUST-427,Customer_76,Corporate,India,Patna,Bihar,East,Furniture,Storage,Storage Product 58,5599.78,5,0.0,1427.86
+ORD-10799,2024-05-10,2024-05-13,CUST-885,Customer_198,Corporate,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 41,6469.05,5,0.05,-383.61
+ORD-10800,2025-10-31,2025-11-04,CUST-492,Customer_215,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 64,14595.45,10,0.1,-551.71
+ORD-10801,2025-12-11,2025-12-15,CUST-819,Customer_45,Consumer,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 47,8756.36,7,0.2,1401.41
+ORD-10802,2024-12-23,2024-12-29,CUST-969,Customer_72,Corporate,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 59,8419.78,3,0.0,-616.25
+ORD-10803,2025-12-13,2025-12-16,CUST-486,Customer_14,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 55,12434.54,1,0.05,-587.46
+ORD-10804,2024-06-10,2024-06-11,CUST-250,Customer_188,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 11,9974.94,2,0.15,2761.53
+ORD-10805,2025-04-26,2025-04-29,CUST-866,Customer_271,Home Office,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 39,12482.91,7,0.05,3051.3
+ORD-10806,2024-03-02,2024-03-03,CUST-718,Customer_89,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Product 21,6715.21,1,0.1,-335.29
+ORD-10807,2024-09-21,2024-09-26,CUST-826,Customer_117,Corporate,India,Patna,Bihar,East,Furniture,Storage,Storage Product 120,14228.81,8,0.2,3132.23
+ORD-10808,2024-02-27,2024-03-02,CUST-501,Customer_95,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 72,5725.65,3,0.05,459.09
+ORD-10809,2025-01-15,2025-01-22,CUST-299,Customer_139,Consumer,India,Patna,Bihar,East,Furniture,Tables,Tables Product 14,9825.23,7,0.15,-253.78
+ORD-10810,2024-03-07,2024-03-11,CUST-711,Customer_6,Corporate,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 25,517.93,5,0.05,74.43
+ORD-10811,2025-05-10,2025-05-11,CUST-149,Customer_162,Consumer,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 40,1367.09,10,0.2,-109.1
+ORD-10812,2024-05-12,2024-05-14,CUST-439,Customer_209,Home Office,India,Patna,Bihar,East,Furniture,Tables,Tables Product 65,7553.22,6,0.15,1711.25
+ORD-10813,2024-02-08,2024-02-13,CUST-265,Customer_78,Home Office,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 60,11961.43,8,0.2,3480.36
+ORD-10814,2025-05-28,2025-06-03,CUST-558,Customer_68,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 38,13277.59,3,0.05,4607.82
+ORD-10815,2025-09-17,2025-09-19,CUST-256,Customer_291,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 64,11635.21,7,0.05,-70.17
+ORD-10816,2024-11-17,2024-11-20,CUST-402,Customer_83,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 36,8252.33,2,0.15,-475.74
+ORD-10817,2024-09-19,2024-09-27,CUST-765,Customer_72,Consumer,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 73,2769.88,8,0.1,952.19
+ORD-10818,2025-06-08,2025-06-14,CUST-482,Customer_43,Home Office,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 53,6073.99,10,0.05,597.51
+ORD-10819,2025-07-28,2025-07-29,CUST-258,Customer_54,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 49,9347.14,1,0.05,2008.56
+ORD-10820,2025-04-24,2025-05-02,CUST-211,Customer_44,Consumer,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 94,5884.52,8,0.0,335.55
+ORD-10821,2025-09-10,2025-09-18,CUST-317,Customer_244,Consumer,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 36,6082.66,2,0.1,329.01
+ORD-10822,2024-02-02,2024-02-09,CUST-163,Customer_186,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 61,14233.15,3,0.05,627.45
+ORD-10823,2024-06-29,2024-07-01,CUST-245,Customer_36,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 52,14294.41,7,0.1,192.0
+ORD-10824,2024-09-22,2024-09-25,CUST-950,Customer_28,Consumer,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 115,13082.21,9,0.05,2633.97
+ORD-10825,2025-12-06,2025-12-09,CUST-813,Customer_224,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 117,3059.22,7,0.15,348.67
+ORD-10826,2025-11-11,2025-11-17,CUST-114,Customer_78,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 120,3058.54,10,0.2,-106.81
+ORD-10827,2024-01-04,2024-01-12,CUST-952,Customer_65,Home Office,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 58,11901.05,7,0.1,1598.45
+ORD-10828,2025-09-07,2025-09-14,CUST-321,Customer_179,Consumer,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 25,14687.58,7,0.2,3649.47
+ORD-10829,2024-05-07,2024-05-15,CUST-764,Customer_234,Corporate,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 53,4598.97,5,0.2,1235.16
+ORD-10830,2025-04-14,2025-04-21,CUST-482,Customer_91,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 77,7895.23,6,0.0,2501.66
+ORD-10831,2024-04-11,2024-04-13,CUST-925,Customer_54,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 84,12691.86,7,0.1,2740.7
+ORD-10832,2025-03-30,2025-03-31,CUST-783,Customer_149,Corporate,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 28,11274.16,10,0.2,-621.59
+ORD-10833,2025-04-20,2025-04-27,CUST-940,Customer_331,Home Office,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 101,1806.07,8,0.0,104.35
+ORD-10834,2025-02-28,2025-03-04,CUST-104,Customer_213,Consumer,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 2,7662.66,5,0.1,293.7
+ORD-10835,2025-08-08,2025-08-15,CUST-347,Customer_285,Corporate,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 25,12318.51,10,0.1,625.66
+ORD-10836,2024-11-21,2024-11-24,CUST-547,Customer_119,Consumer,India,Bengaluru,Karnataka,South,Office Supplies,Paper,Paper Product 91,2020.17,7,0.05,164.45
+ORD-10837,2024-11-26,2024-11-30,CUST-195,Customer_48,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 56,11785.79,5,0.2,-335.02
+ORD-10838,2024-05-13,2024-05-21,CUST-749,Customer_324,Corporate,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 24,10642.88,2,0.2,767.16
+ORD-10839,2025-11-06,2025-11-07,CUST-381,Customer_43,Consumer,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 81,8077.72,4,0.15,1992.58
+ORD-10840,2024-09-25,2024-09-28,CUST-195,Customer_40,Corporate,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 109,13915.27,2,0.0,-503.37
+ORD-10841,2025-10-02,2025-10-04,CUST-315,Customer_215,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Chairs,Chairs Product 114,7416.45,1,0.15,-496.09
+ORD-10842,2024-02-02,2024-02-04,CUST-451,Customer_178,Corporate,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 79,4551.45,3,0.2,837.68
+ORD-10843,2025-07-02,2025-07-03,CUST-630,Customer_263,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Appliances,Appliances Product 28,3892.07,2,0.05,672.35
+ORD-10844,2024-05-09,2024-05-14,CUST-380,Customer_247,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 12,4980.34,4,0.0,1132.95
+ORD-10845,2024-07-16,2024-07-21,CUST-277,Customer_102,Home Office,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 109,12154.27,7,0.2,3960.54
+ORD-10846,2024-07-29,2024-08-06,CUST-543,Customer_229,Corporate,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 77,11917.98,10,0.1,-303.39
+ORD-10847,2025-01-17,2025-01-19,CUST-560,Customer_86,Consumer,India,Nagpur,Maharashtra,Central,Office Supplies,Binders,Binders Product 66,9148.71,7,0.05,1420.01
+ORD-10848,2024-04-27,2024-04-30,CUST-928,Customer_166,Corporate,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 102,12417.63,9,0.1,983.95
+ORD-10849,2024-11-17,2024-11-19,CUST-109,Customer_164,Home Office,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 2,3306.24,6,0.1,-114.83
+ORD-10850,2024-10-17,2024-10-21,CUST-639,Customer_112,Consumer,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 72,11949.07,4,0.2,-838.76
+ORD-10851,2024-07-21,2024-07-25,CUST-150,Customer_253,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 6,6384.08,7,0.1,1698.34
+ORD-10852,2024-08-30,2024-08-31,CUST-391,Customer_10,Home Office,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 101,6846.5,10,0.1,1136.7
+ORD-10853,2025-06-24,2025-06-25,CUST-445,Customer_331,Consumer,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 9,12640.48,7,0.0,3831.62
+ORD-10854,2025-07-23,2025-07-29,CUST-605,Customer_314,Consumer,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 51,4584.87,6,0.1,367.5
+ORD-10855,2024-04-15,2024-04-16,CUST-329,Customer_25,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Storage,Storage Product 18,14510.57,2,0.1,4671.92
+ORD-10856,2025-01-12,2025-01-13,CUST-804,Customer_27,Corporate,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 114,6591.67,3,0.0,-92.14
+ORD-10857,2025-01-23,2025-01-28,CUST-815,Customer_88,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 75,1218.13,6,0.2,312.12
+ORD-10858,2025-11-15,2025-11-17,CUST-634,Customer_271,Consumer,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 74,12942.23,10,0.15,2415.11
+ORD-10859,2024-10-30,2024-11-01,CUST-461,Customer_286,Consumer,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 85,11612.4,8,0.05,-681.54
+ORD-10860,2025-01-29,2025-02-02,CUST-599,Customer_54,Corporate,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Product 27,997.98,1,0.05,110.44
+ORD-10861,2024-08-12,2024-08-18,CUST-494,Customer_232,Home Office,India,Nagpur,Maharashtra,Central,Office Supplies,Paper,Paper Product 66,9863.81,9,0.0,3071.16
+ORD-10862,2025-08-14,2025-08-16,CUST-250,Customer_237,Consumer,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 96,4239.79,3,0.1,1391.38
+ORD-10863,2025-04-08,2025-04-14,CUST-371,Customer_61,Home Office,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Product 11,2886.74,1,0.15,571.14
+ORD-10864,2025-03-27,2025-04-01,CUST-478,Customer_51,Consumer,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 84,6014.23,7,0.2,301.81
+ORD-10865,2025-09-14,2025-09-22,CUST-631,Customer_222,Consumer,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 88,2922.8,3,0.2,70.63
+ORD-10866,2024-03-08,2024-03-10,CUST-382,Customer_116,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 90,1816.3,1,0.2,35.93
+ORD-10867,2024-07-27,2024-08-02,CUST-752,Customer_148,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 77,3376.34,5,0.15,-25.09
+ORD-10868,2025-12-05,2025-12-09,CUST-274,Customer_162,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Phones,Phones Product 9,7598.28,10,0.15,1767.29
+ORD-10869,2024-01-22,2024-01-25,CUST-370,Customer_40,Consumer,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 87,2213.32,1,0.15,204.88
+ORD-10870,2024-01-18,2024-01-23,CUST-955,Customer_117,Home Office,India,Patna,Bihar,East,Furniture,Storage,Storage Product 65,115.0,4,0.15,-5.84
+ORD-10871,2024-12-25,2024-12-30,CUST-779,Customer_250,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 47,4638.57,6,0.15,560.33
+ORD-10872,2024-10-03,2024-10-04,CUST-251,Customer_211,Consumer,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 85,10681.34,9,0.2,1259.97
+ORD-10873,2024-04-01,2024-04-05,CUST-486,Customer_328,Consumer,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 36,3741.08,7,0.1,-26.79
+ORD-10874,2024-10-09,2024-10-14,CUST-295,Customer_22,Home Office,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 67,5297.79,6,0.15,874.75
+ORD-10875,2024-01-09,2024-01-17,CUST-801,Customer_76,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 88,8543.27,6,0.1,-430.7
+ORD-10876,2024-10-28,2024-10-29,CUST-564,Customer_21,Consumer,India,Pune,Maharashtra,West,Office Supplies,Appliances,Appliances Product 37,9998.37,5,0.15,297.12
+ORD-10877,2024-05-21,2024-05-27,CUST-999,Customer_146,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 86,175.84,6,0.0,-13.64
+ORD-10878,2024-03-23,2024-03-28,CUST-324,Customer_17,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 120,2225.4,4,0.15,363.52
+ORD-10879,2024-11-05,2024-11-10,CUST-277,Customer_289,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 87,5854.99,7,0.0,1767.42
+ORD-10880,2024-11-08,2024-11-10,CUST-404,Customer_291,Home Office,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 60,3825.3,7,0.2,-39.07
+ORD-10881,2025-12-02,2025-12-08,CUST-579,Customer_182,Corporate,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 60,2165.29,8,0.1,274.38
+ORD-10882,2024-05-23,2024-05-28,CUST-905,Customer_125,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Chairs,Chairs Product 66,13697.12,1,0.15,-824.66
+ORD-10883,2025-02-06,2025-02-09,CUST-512,Customer_344,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Appliances,Appliances Product 60,13508.69,5,0.0,3240.75
+ORD-10884,2024-10-24,2024-11-01,CUST-807,Customer_170,Consumer,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 16,4125.61,2,0.1,690.85
+ORD-10885,2025-11-22,2025-11-25,CUST-408,Customer_322,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 93,8474.53,8,0.05,5.04
+ORD-10886,2024-05-03,2024-05-05,CUST-353,Customer_105,Consumer,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 61,3090.43,2,0.0,-96.24
+ORD-10887,2024-07-07,2024-07-11,CUST-961,Customer_280,Corporate,India,Patna,Bihar,East,Furniture,Chairs,Chairs Product 106,13898.06,5,0.15,1635.44
+ORD-10888,2025-11-04,2025-11-08,CUST-274,Customer_262,Home Office,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 90,9579.34,3,0.05,2570.59
+ORD-10889,2025-11-14,2025-11-19,CUST-500,Customer_198,Home Office,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 103,4412.79,2,0.2,537.63
+ORD-10890,2025-02-02,2025-02-03,CUST-694,Customer_156,Consumer,India,Patna,Bihar,East,Furniture,Tables,Tables Product 83,2307.68,5,0.15,-106.02
+ORD-10891,2024-06-11,2024-06-17,CUST-612,Customer_258,Consumer,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 45,7071.82,8,0.1,-678.16
+ORD-10892,2024-05-23,2024-05-28,CUST-903,Customer_338,Corporate,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 119,2355.9,10,0.1,251.53
+ORD-10893,2025-08-12,2025-08-17,CUST-232,Customer_166,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Paper,Paper Product 75,5710.19,8,0.2,1122.27
+ORD-10894,2024-04-18,2024-04-26,CUST-795,Customer_244,Corporate,India,Nagpur,Maharashtra,Central,Technology,Phones,Phones Product 98,539.88,3,0.05,-30.53
+ORD-10895,2024-03-04,2024-03-09,CUST-217,Customer_20,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 10,10949.63,7,0.15,3449.89
+ORD-10896,2025-04-05,2025-04-12,CUST-236,Customer_327,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 72,12626.12,3,0.1,-650.91
+ORD-10897,2024-06-14,2024-06-21,CUST-933,Customer_271,Consumer,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 12,6618.97,5,0.05,-62.64
+ORD-10898,2025-08-04,2025-08-06,CUST-448,Customer_95,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 94,12169.13,1,0.1,3023.71
+ORD-10899,2025-07-26,2025-07-29,CUST-920,Customer_35,Corporate,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 55,12430.88,9,0.1,751.05
+ORD-10900,2025-05-25,2025-05-29,CUST-152,Customer_308,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 43,1995.17,9,0.1,-108.91
+ORD-10901,2024-06-10,2024-06-15,CUST-176,Customer_274,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 31,5917.35,6,0.0,1731.41
+ORD-10902,2024-09-26,2024-09-27,CUST-133,Customer_174,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Binders,Binders Product 34,8234.53,2,0.2,921.78
+ORD-10903,2024-03-15,2024-03-16,CUST-454,Customer_37,Corporate,India,Pune,Maharashtra,West,Technology,Phones,Phones Product 77,3143.08,6,0.0,18.95
+ORD-10904,2024-08-18,2024-08-24,CUST-541,Customer_245,Corporate,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 101,10877.61,2,0.0,1343.04
+ORD-10905,2025-01-23,2025-01-24,CUST-665,Customer_247,Consumer,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 50,11626.84,4,0.2,2019.15
+ORD-10906,2025-09-22,2025-09-28,CUST-460,Customer_100,Corporate,India,Bengaluru,Karnataka,South,Furniture,Storage,Storage Product 56,6459.82,3,0.0,627.11
+ORD-10907,2025-07-03,2025-07-04,CUST-921,Customer_8,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 32,8870.4,4,0.15,2096.64
+ORD-10908,2025-09-08,2025-09-12,CUST-399,Customer_67,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Product 51,6634.48,5,0.0,274.38
+ORD-10909,2024-12-31,2025-01-04,CUST-554,Customer_155,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 100,1238.03,9,0.05,151.93
+ORD-10910,2024-12-20,2024-12-27,CUST-822,Customer_319,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 36,4851.0,9,0.2,-257.25
+ORD-10911,2024-05-25,2024-05-26,CUST-340,Customer_226,Home Office,India,Kolkata,West Bengal,East,Technology,Copiers,Copiers Product 98,3534.99,9,0.05,-158.24
+ORD-10912,2024-11-03,2024-11-05,CUST-161,Customer_143,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 50,12561.25,5,0.1,2068.94
+ORD-10913,2025-11-06,2025-11-13,CUST-645,Customer_27,Home Office,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Product 40,6715.89,4,0.05,474.79
+ORD-10914,2025-08-28,2025-09-01,CUST-875,Customer_15,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 93,11341.72,6,0.1,3001.13
+ORD-10915,2025-11-25,2025-11-30,CUST-979,Customer_274,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 55,11310.77,2,0.2,844.35
+ORD-10916,2024-10-14,2024-10-19,CUST-187,Customer_128,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 38,11209.94,4,0.05,3457.94
+ORD-10917,2025-09-14,2025-09-15,CUST-227,Customer_158,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 85,4186.62,5,0.1,1055.41
+ORD-10918,2025-01-02,2025-01-10,CUST-753,Customer_285,Consumer,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 53,6994.59,8,0.0,768.69
+ORD-10919,2024-10-09,2024-10-14,CUST-989,Customer_254,Consumer,India,Kolkata,West Bengal,East,Furniture,Storage,Storage Product 30,8316.57,2,0.15,-158.75
+ORD-10920,2025-06-02,2025-06-10,CUST-693,Customer_163,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 71,838.74,2,0.0,-14.33
+ORD-10921,2024-02-15,2024-02-19,CUST-458,Customer_56,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 65,14631.71,1,0.1,2095.24
+ORD-10922,2025-11-28,2025-12-05,CUST-173,Customer_329,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 113,3630.98,6,0.2,243.68
+ORD-10923,2025-10-29,2025-11-04,CUST-581,Customer_151,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 4,9143.8,6,0.1,3097.87
+ORD-10924,2024-08-04,2024-08-10,CUST-623,Customer_261,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 92,13961.6,10,0.0,-728.73
+ORD-10925,2025-10-26,2025-10-28,CUST-179,Customer_115,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Storage,Storage Product 65,585.73,3,0.15,142.44
+ORD-10926,2024-10-02,2024-10-06,CUST-956,Customer_295,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 117,9145.82,9,0.2,900.48
+ORD-10927,2025-03-31,2025-04-07,CUST-470,Customer_41,Corporate,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 72,3540.27,6,0.0,750.12
+ORD-10928,2024-05-08,2024-05-12,CUST-895,Customer_209,Home Office,India,Patna,Bihar,East,Office Supplies,Paper,Paper Product 75,9117.76,8,0.15,30.94
+ORD-10929,2024-05-31,2024-06-08,CUST-747,Customer_102,Consumer,India,Pune,Maharashtra,West,Furniture,Tables,Tables Product 113,4776.28,2,0.15,427.29
+ORD-10930,2024-05-09,2024-05-10,CUST-953,Customer_221,Consumer,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 89,6337.52,9,0.15,1484.78
+ORD-10931,2025-02-15,2025-02-19,CUST-829,Customer_151,Consumer,India,Mumbai,Maharashtra,West,Technology,Copiers,Copiers Product 44,13016.51,7,0.15,774.03
+ORD-10932,2025-10-07,2025-10-15,CUST-858,Customer_224,Corporate,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Binders,Binders Product 97,1198.91,6,0.15,371.43
+ORD-10933,2024-01-08,2024-01-14,CUST-790,Customer_333,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 49,10883.24,10,0.2,-677.97
+ORD-10934,2025-05-20,2025-05-26,CUST-149,Customer_289,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 115,10865.74,5,0.0,49.1
+ORD-10935,2024-08-03,2024-08-10,CUST-631,Customer_143,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 113,4846.82,3,0.05,-393.22
+ORD-10936,2024-08-17,2024-08-20,CUST-395,Customer_133,Home Office,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 97,2567.33,5,0.1,305.48
+ORD-10937,2024-06-21,2024-06-22,CUST-712,Customer_21,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 69,2200.95,4,0.2,610.67
+ORD-10938,2025-03-31,2025-04-03,CUST-950,Customer_233,Corporate,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 118,5606.15,5,0.2,515.35
+ORD-10939,2025-11-15,2025-11-17,CUST-462,Customer_41,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 102,7449.51,2,0.05,2584.12
+ORD-10940,2025-06-09,2025-06-11,CUST-823,Customer_162,Consumer,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 56,7655.2,5,0.15,1406.88
+ORD-10941,2025-08-23,2025-08-30,CUST-993,Customer_113,Home Office,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 26,9950.84,1,0.0,106.09
+ORD-10942,2025-10-12,2025-10-14,CUST-628,Customer_110,Consumer,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 56,12226.65,8,0.1,-497.55
+ORD-10943,2024-09-26,2024-10-03,CUST-746,Customer_299,Consumer,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 82,3207.35,3,0.0,282.8
+ORD-10944,2025-11-15,2025-11-23,CUST-601,Customer_323,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 77,14319.59,5,0.05,4206.63
+ORD-10945,2024-11-29,2024-12-03,CUST-778,Customer_218,Consumer,India,Nagpur,Maharashtra,Central,Furniture,Chairs,Chairs Product 23,3362.06,5,0.15,1130.37
+ORD-10946,2025-05-10,2025-05-18,CUST-715,Customer_211,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Product 31,5278.92,7,0.05,1310.0
+ORD-10947,2024-11-26,2024-12-01,CUST-791,Customer_163,Corporate,India,Patna,Bihar,East,Furniture,Storage,Storage Product 51,3305.08,7,0.0,505.73
+ORD-10948,2024-12-13,2024-12-14,CUST-415,Customer_230,Corporate,India,Chennai,Tamil Nadu,South,Furniture,Tables,Tables Product 29,13694.29,5,0.15,3117.97
+ORD-10949,2025-09-11,2025-09-12,CUST-839,Customer_11,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 12,14223.38,10,0.2,687.81
+ORD-10950,2024-07-22,2024-07-25,CUST-958,Customer_275,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Binders,Binders Product 111,9858.48,9,0.05,620.53
+ORD-10951,2024-01-14,2024-01-15,CUST-965,Customer_11,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 14,5039.38,4,0.2,1159.06
+ORD-10952,2025-12-05,2025-12-09,CUST-134,Customer_140,Home Office,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 16,4318.04,1,0.05,795.38
+ORD-10953,2025-12-21,2025-12-28,CUST-120,Customer_8,Home Office,India,Chennai,Tamil Nadu,South,Technology,Copiers,Copiers Product 107,13161.66,2,0.0,-878.53
+ORD-10954,2024-11-27,2024-12-04,CUST-624,Customer_12,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Appliances,Appliances Product 36,11910.04,4,0.2,3414.45
+ORD-10955,2025-03-15,2025-03-17,CUST-327,Customer_209,Home Office,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Product 36,14542.01,10,0.15,1010.11
+ORD-10956,2025-02-07,2025-02-13,CUST-881,Customer_280,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 14,7648.24,7,0.0,2653.32
+ORD-10957,2025-07-30,2025-08-01,CUST-758,Customer_160,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Product 19,6020.49,4,0.15,399.88
+ORD-10958,2024-05-24,2024-05-31,CUST-731,Customer_243,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Product 93,3194.46,8,0.2,39.89
+ORD-10959,2025-12-06,2025-12-13,CUST-992,Customer_3,Corporate,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Product 89,6236.69,6,0.05,-521.2
+ORD-10960,2025-05-09,2025-05-11,CUST-207,Customer_218,Home Office,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 10,4763.94,4,0.1,512.68
+ORD-10961,2024-04-26,2024-04-27,CUST-534,Customer_254,Consumer,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 81,7847.09,2,0.05,-87.77
+ORD-10962,2024-10-28,2024-11-02,CUST-635,Customer_166,Home Office,India,Bengaluru,Karnataka,South,Office Supplies,Appliances,Appliances Product 114,6330.4,1,0.1,-298.08
+ORD-10963,2025-01-15,2025-01-20,CUST-583,Customer_237,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 120,7896.44,4,0.2,2593.17
+ORD-10964,2024-07-02,2024-07-05,CUST-581,Customer_35,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 40,10754.71,8,0.0,462.02
+ORD-10965,2025-04-24,2025-04-27,CUST-168,Customer_180,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Product 72,8112.2,6,0.0,-588.15
+ORD-10966,2025-03-12,2025-03-17,CUST-476,Customer_320,Corporate,India,Pune,Maharashtra,West,Office Supplies,Binders,Binders Product 120,13925.4,5,0.1,3750.66
+ORD-10967,2025-07-31,2025-08-02,CUST-229,Customer_268,Home Office,India,Bhopal,Madhya Pradesh,Central,Technology,Copiers,Copiers Product 83,2371.08,4,0.1,-46.84
+ORD-10968,2024-01-03,2024-01-07,CUST-321,Customer_47,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Appliances,Appliances Product 19,9111.15,10,0.15,-52.95
+ORD-10969,2025-03-26,2025-04-02,CUST-780,Customer_242,Corporate,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Product 39,4917.73,1,0.05,640.62
+ORD-10970,2025-06-18,2025-06-24,CUST-643,Customer_41,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Product 108,5721.91,7,0.15,341.86
+ORD-10971,2025-12-12,2025-12-17,CUST-801,Customer_62,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Paper,Paper Product 116,10699.08,7,0.2,1056.44
+ORD-10972,2024-08-06,2024-08-10,CUST-491,Customer_192,Consumer,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Product 120,13005.46,8,0.1,2962.92
+ORD-10973,2024-04-06,2024-04-12,CUST-359,Customer_258,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Product 78,7937.44,1,0.2,314.92
+ORD-10974,2025-12-22,2025-12-27,CUST-380,Customer_321,Consumer,India,Bhopal,Madhya Pradesh,Central,Office Supplies,Paper,Paper Product 74,9660.94,7,0.0,3362.8
+ORD-10975,2025-10-25,2025-10-27,CUST-139,Customer_190,Consumer,India,Patna,Bihar,East,Office Supplies,Appliances,Appliances Product 79,6871.76,3,0.15,1631.85
+ORD-10976,2025-12-28,2025-12-29,CUST-421,Customer_50,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Product 36,6351.63,2,0.0,632.11
+ORD-10977,2025-08-23,2025-08-29,CUST-628,Customer_8,Home Office,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 52,12738.63,6,0.05,3918.1
+ORD-10978,2024-03-26,2024-03-29,CUST-554,Customer_23,Corporate,India,Bengaluru,Karnataka,South,Technology,Phones,Phones Product 78,12393.21,9,0.05,2826.03
+ORD-10979,2024-12-25,2024-12-27,CUST-449,Customer_239,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 108,11227.74,1,0.1,260.41
+ORD-10980,2025-08-28,2025-08-29,CUST-885,Customer_87,Consumer,India,Patna,Bihar,East,Technology,Phones,Phones Product 28,13778.37,3,0.0,-226.7
+ORD-10981,2024-05-15,2024-05-20,CUST-154,Customer_195,Home Office,India,Nagpur,Maharashtra,Central,Technology,Copiers,Copiers Product 37,14154.24,5,0.05,3345.13
+ORD-10982,2024-07-23,2024-07-26,CUST-402,Customer_133,Home Office,India,Pune,Maharashtra,West,Technology,Copiers,Copiers Product 57,4801.56,4,0.05,109.28
+ORD-10983,2025-10-08,2025-10-11,CUST-137,Customer_300,Corporate,India,Bhopal,Madhya Pradesh,Central,Furniture,Tables,Tables Product 20,8722.57,6,0.2,892.78
+ORD-10984,2025-05-30,2025-06-04,CUST-192,Customer_263,Consumer,India,Pune,Maharashtra,West,Furniture,Storage,Storage Product 34,12182.53,5,0.05,657.63
+ORD-10985,2025-04-23,2025-04-29,CUST-481,Customer_289,Corporate,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 85,13836.6,9,0.05,1575.22
+ORD-10986,2024-12-08,2024-12-14,CUST-763,Customer_52,Consumer,India,Patna,Bihar,East,Office Supplies,Binders,Binders Product 117,9479.13,1,0.05,849.65
+ORD-10987,2025-04-12,2025-04-19,CUST-848,Customer_205,Corporate,India,Nagpur,Maharashtra,Central,Technology,Accessories,Accessories Product 107,8246.99,1,0.15,2178.44
+ORD-10988,2024-08-27,2024-08-29,CUST-531,Customer_219,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Product 74,9054.03,8,0.15,317.6
+ORD-10989,2025-06-20,2025-06-24,CUST-681,Customer_72,Consumer,India,Bengaluru,Karnataka,South,Technology,Copiers,Copiers Product 85,2579.13,5,0.2,862.35
+ORD-10990,2024-06-18,2024-06-26,CUST-100,Customer_338,Consumer,India,Bhopal,Madhya Pradesh,Central,Technology,Accessories,Accessories Product 26,11913.67,3,0.1,1267.87
+ORD-10991,2024-09-07,2024-09-10,CUST-801,Customer_285,Corporate,India,Pune,Maharashtra,West,Furniture,Chairs,Chairs Product 1,2850.45,4,0.15,-169.39
+ORD-10992,2025-11-15,2025-11-22,CUST-951,Customer_238,Home Office,India,Bengaluru,Karnataka,South,Furniture,Chairs,Chairs Product 32,7114.93,7,0.05,2211.14
+ORD-10993,2024-10-16,2024-10-23,CUST-711,Customer_202,Home Office,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 10,11469.36,3,0.15,2844.03
+ORD-10994,2024-07-01,2024-07-05,CUST-477,Customer_186,Corporate,India,Nagpur,Maharashtra,Central,Office Supplies,Appliances,Appliances Product 65,14556.36,1,0.05,4345.29
+ORD-10995,2024-11-05,2024-11-12,CUST-195,Customer_174,Corporate,India,Patna,Bihar,East,Technology,Copiers,Copiers Product 84,3528.09,8,0.05,-282.56
+ORD-10996,2025-03-07,2025-03-10,CUST-267,Customer_204,Home Office,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Product 67,4735.27,8,0.0,82.67
+ORD-10997,2024-01-13,2024-01-16,CUST-426,Customer_66,Home Office,India,Patna,Bihar,East,Technology,Accessories,Accessories Product 65,10322.38,2,0.15,2700.31
+ORD-10998,2024-11-06,2024-11-13,CUST-364,Customer_325,Consumer,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Product 78,9841.88,7,0.15,2432.05
+ORD-10999,2024-07-02,2024-07-09,CUST-644,Customer_197,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Storage,Storage Product 11,5092.45,9,0.1,-253.34
+ORD-11000,2025-04-10,2025-04-17,CUST-149,Customer_238,Corporate,India,Mumbai,Maharashtra,West,Furniture,Storage,Storage Product 6,8893.28,4,0.2,2363.62
