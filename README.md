@@ -1,5 +1,3 @@
-# SQL-Projects-Portfolio
-
 # SQL Projects Portfolio
 
 ## About Me
